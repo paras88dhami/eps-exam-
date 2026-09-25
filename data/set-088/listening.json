@@ -1,0 +1,564 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "오늘 저녁에는 친구와 영화를 보러 갈 거예요.",
+      "주말에는 방 청소를 하고 빨래를 하려고 합니다.",
+      "우체국 옆 길로 곧장 가면 은행이 나옵니다.",
+      "내일 아침에는 공원에서 운동할 예정입니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "우체국 옆 길로 곧장 가면 은행이 나옵니다."
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "주말에는 방 청소를 하고 빨래를 하려고 합니다.",
+      "내일 아침에는 공원에서 운동할 예정입니다.",
+      "회의실은 오후 세 시에 교육 준비 회의가 있습니다.",
+      "휴대전화를 잃어버려서 조금 걱정됩니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "회의실은 오후 세 시에 교육 준비 회의가 있습니다."
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q23-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q23-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q23-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "비계 작업을 볼 수 있습니다. 장면입니다."
+    }
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q24-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q24-4.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q24-2.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "작업용 장갑 장면입니다."
+    }
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q25-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q25-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q25-4.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q25-2.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "사진에서 기계 공동 작업을 확인할 수 있습니다. 장면입니다."
+    }
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q26-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q26-4.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q26-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q26-3.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "화면에는 공장 화재가 보 장면입니다."
+    }
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q27-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q27-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q27-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q27-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "이 장면은 습도계와 관계가 있습니다.와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 통근버스는 몇 시에 출발해요?",
+      "optionsAudio": [
+        "창구가 닫혔습니다.",
+        "표지를 붙이세요.",
+        "일곱 시 십 분에 출발해요.",
+        "약을 먹었습니다."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "검사 결과는 언제 나와요?",
+      "optionsAudio": [
+        "왼쪽으로 돌리세요.",
+        "장갑을 세 켤레 샀어요.",
+        "내일 오후에 나옵니다.",
+        "열두 시에 문을 닫아요."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 점심 메뉴가 뭐예요?",
+      "optionsAudio": [
+        "부품을 교체했습니다.",
+        "된장찌개예요.",
+        "회의는 내일입니다.",
+        "오전 아홉 시입니다."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "택배 상자는 몇 개 준비하면 돼요?",
+      "optionsAudio": [
+        "병원은 저쪽입니다.",
+        "큰 상자 두 개면 돼요.",
+        "생선이 싱싱합니다.",
+        "휴무일은 토요일이에요."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "비닐하우스 온도는 몇 도예요?",
+      "optionsAudio": [
+        "부엌이 넓어요.",
+        "세탁기가 고장 났어요.",
+        "지금은 스물다섯 도예요.",
+        "오른손으로 잡으세요."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "네, 감기가 심해요.",
+      "감사합니다. 바로 가져다드릴게요.",
+      "맞아요, 장갑이 두 켤레예요.",
+      "아니요, 오늘은 비가 안 와요."
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "이 서류는 어디에 제출하면 돼요?"
+        },
+        {
+          "speaker": "female",
+          "text": "우체국 옆 민원실에 내면 됩니다."
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q34-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q34-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q34-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "이 표지는 미끄럼 주의를 뜻합니다."
+    }
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q35-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "직원이 손수레로 상자를 옮기고 있습니다."
+    }
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q36-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q36-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q36-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "책상 위에 가위가 놓여 있습니다."
+    }
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-088/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q37-2.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-088/q37-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "작업자가 보호안경을 쓰고 용접하고 있습니다."
+    }
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 두 사람이 무엇에 대해 이야기하는지 고르십시오.",
+    "options": [
+      "두 사람은 영화 예매에 대해 이야기하고 있습니다.",
+      "두 사람은 여행 계획에 대해 이야기하고 있습니다.",
+      "두 사람은 취미 활동에 대해 이야기하고 있습니다.",
+      "두 사람은 은행 송금에 대해 이야기하고 있습니다."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "고향에 돈을 보내려고 하는데 수수료가 얼마예요?"
+        },
+        {
+          "speaker": "female",
+          "text": "오만 원 이상 송금하면 수수료가 천 원입니다."
+        },
+        {
+          "speaker": "male",
+          "text": "그럼 신분증만 있으면 되나요?"
+        },
+        {
+          "speaker": "female",
+          "text": "네, 신분증과 계좌번호를 준비해 주세요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "두 사람은 주말 여행 일정을 정하고 있습니다.",
+      "대화에서 물건 가격 이야기는 나오지 않습니다.",
+      "두 사람은 서로 처음 만난 사람들입니다.",
+      "오만 원 이상 송금하면 수수료가 천 원입니다."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "고향에 돈을 보내려고 하는데 수수료가 얼마예요?"
+        },
+        {
+          "speaker": "female",
+          "text": "오만 원 이상 송금하면 수수료가 천 원입니다."
+        },
+        {
+          "speaker": "male",
+          "text": "그럼 신분증만 있으면 되나요?"
+        },
+        {
+          "speaker": "female",
+          "text": "네, 신분증과 계좌번호를 준비해 주세요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "여자는 필요한 서류를 준비해야 합니다.",
+      "두 사람은 오늘 영화를 보기로 했습니다.",
+      "두 사람은 서로의 고향을 묻고 있습니다.",
+      "두 사람은 휴가 계획만 이야기하고 있습니다."
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "고향에 돈을 보내려고 하는데 수수료가 얼마예요?"
+        },
+        {
+          "speaker": "female",
+          "text": "오만 원 이상 송금하면 수수료가 천 원입니다."
+        },
+        {
+          "speaker": "male",
+          "text": "그럼 신분증만 있으면 되나요?"
+        },
+        {
+          "speaker": "female",
+          "text": "네, 신분증과 계좌번호를 준비해 주세요."
+        }
+      ]
+    }
+  }
+]

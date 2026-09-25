@@ -1,0 +1,549 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "마트에서 계산을 확인하세요.",
+      "오늘은 일찍 퇴근합니다.",
+      "은행에서 돈을 찾습니다.",
+      "점심을 같이 먹어요."
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 계산을 확인하세요."
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "오늘은 일찍 퇴근합니다.",
+      "상품이 끝나면 담당자에게 보고하세요.",
+      "은행에서 돈을 찾습니다.",
+      "점심을 같이 먹어요."
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "상품이 끝나면 담당자에게 보고하세요."
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q23-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q23-4.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q23-2.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 잘 보세요. 절단기입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q24-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q24-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q24-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 공장 설비입니다. 이것을 고르세요."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q25-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q25-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q25-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q25-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 테이블 톱입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q26-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q26-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q26-4.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q26-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 잘 보세요. 버니어 캘리퍼스입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q27-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q27-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q27-4.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q27-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 끌입니다. 이것을 고르세요."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 무엇을 확인하고 있어요?",
+      "optionsAudio": [
+        "아침을 먹었어요.",
+        "주말에 여행을 가요.",
+        "계산의 상태를 확인하고 있어요.",
+        "날씨가 아주 좋아요."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 왜 작업을 멈췄어요?",
+      "optionsAudio": [
+        "기계에서 이상한 소리가 나서 멈췄어요.",
+        "주말에 여행을 가요.",
+        "날씨가 아주 좋아요.",
+        "친구를 기다리고 있어요."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 작업이 끝나면 무엇을 해야 해요?",
+      "optionsAudio": [
+        "날씨가 아주 좋아요.",
+        "친구를 기다리고 있어요.",
+        "사용한 도구를 제자리에 정리해야 해요.",
+        "시장에 갈 거예요."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 문제가 생기면 누구에게 말해야 해요?",
+      "optionsAudio": [
+        "친구를 기다리고 있어요.",
+        "시장에 갈 거예요.",
+        "커피를 마셨어요.",
+        "담당 관리자에게 바로 말해야 해요."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "내일 교육은 어디에서 해요?",
+      "optionsAudio": [
+        "시장에 갈 거예요.",
+        "마트 안의 교육장에서 해요.",
+        "커피를 마셨어요.",
+        "아침을 먹었어요."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "네, 확인한 후 바로 보고하겠습니다.",
+      "아니요, 어제 영화를 봤어요.",
+      "네, 점심은 맛있었어요.",
+      "주말에는 집에서 쉴 거예요."
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "마트에서 작업 준비는 다 했어요?"
+        },
+        {
+          "speaker": "male",
+          "text": "아직 계산 상태를 확인하지 못했어요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q34-4.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q34-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q34-3.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 잘 보세요. 주방입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q35-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 국자로 음식을 담고 있습니다. 이것을 고르세요."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q36-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q36-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q36-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 오븐입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-044/q37-2.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-044/q37-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "마트에서 들을 수 있는 말입니다. 잘 보세요. 재료 공장에서 일하고 있습니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 두 사람이 무엇에 대해 이야기하는지 고르십시오.",
+    "options": [
+      "휴가 계획",
+      "문제 발생 시 조치",
+      "식사 메뉴",
+      "교통편"
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "마트에서 계산에 문제가 생겼어요."
+        },
+        {
+          "speaker": "male",
+          "text": "그러면 사용하지 말고 담당자에게 알려 주세요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "오후 세 시",
+      "오후 네 시",
+      "오후 다섯 시에 작업이 끝납니다.",
+      "오후 여섯 시"
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "오늘 상품은 몇 시에 끝나요?"
+        },
+        {
+          "speaker": "male",
+          "text": "오후 다섯 시에 끝나고 정리를 시작해요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "작업 후에만 장비를 확인합니다.",
+      "작업 전에 장비 상태를 확인해야 합니다.",
+      "보호 장비는 확인하지 않습니다.",
+      "문제가 있어도 바로 작업합니다."
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "작업 전에 무엇을 먼저 해야 해요?"
+        },
+        {
+          "speaker": "male",
+          "text": "계산 상태와 보호 장비를 먼저 확인해야 해요."
+        }
+      ]
+    }
+  }
+]

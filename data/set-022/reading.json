@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "낫",
+      "괭이",
+      "갈퀴",
+      "모종삽"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-022/q01.webp",
+    "visual_spec": "Book-cropped visual: 모종삽"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "물을 주고 있습니다",
+      "밭을 갈고 있습니다",
+      "사과를 따고 있습니다",
+      "그물을 던지고 있습니다"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-022/q02.webp",
+    "visual_spec": "Book-cropped visual: 사과를 따고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "학",
+      "삭",
+      "작",
+      "확"
+    ],
+    "answer": 3,
+    "stem": "수___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "오전에 밭에 가서 토마토를 땄습니까 어제.",
+      "오전에 밭에 가서 토마토를 땄습니다.",
+      "오전에 밭에 가서 토마토를 따요가.",
+      "오전에 밭에 가서 토마토를 따고 싶습니다요."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "거두다",
+      "고치다",
+      "닫다",
+      "빌리다"
+    ],
+    "answer": 0,
+    "stem": "수확하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "젖다",
+      "깊다",
+      "마르다",
+      "멀다"
+    ],
+    "answer": 2,
+    "stem": "젖다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "은행",
+      "밭",
+      "엘리베이터",
+      "약국"
+    ],
+    "answer": 1,
+    "stem": "토마토"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "잘 익은 열매를 고릅니다.",
+      "그물을 수선합니다.",
+      "버스를 기다립니다.",
+      "통장을 만듭니다."
+    ],
+    "answer": 0,
+    "stem": "과일을 수확할 때 먼저"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "도서관에서는 신발을 벗습니다.",
+      "은행에서 우산을 접습니다.",
+      "기숙사에서 표를 삽니다.",
+      "농약을 뿌릴 때 보호구를 착용합니다."
+    ],
+    "answer": 3,
+    "stem": "농약 살포 작업 주의"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 가장 알맞은 표현을 고르십시오.",
+    "options": [
+      "트랙터",
+      "굴착기",
+      "지게차",
+      "화물차"
+    ],
+    "answer": 0,
+    "media": "assets/questions/set-022/q10.webp",
+    "visual_spec": "Book-cropped visual: 트랙터"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "보냈습니다",
+      "입었습니다",
+      "배웠습니다",
+      "주었습니다"
+    ],
+    "answer": 3,
+    "stem": "비가 오지 않아서 오전에 작물에 물을 _______."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "익었습니다",
+      "고장 났습니다",
+      "닫았습니다",
+      "잃었습니다"
+    ],
+    "answer": 0,
+    "stem": "수박가 노랗게 잘 _______ 이제 수확할 수 있습니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "먹고",
+      "쓰고",
+      "타고",
+      "열고"
+    ],
+    "answer": 1,
+    "stem": "농약을 사용할 때는 마스크와 장갑을 _______ 작업하세요."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "보다",
+      "에게",
+      "마다",
+      "전에"
+    ],
+    "answer": 3,
+    "stem": "비가 오기 _______ 온실 문을 닫았습니다."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "고쳤습니다",
+      "담았습니다",
+      "빌렸습니다",
+      "잤습니다"
+    ],
+    "answer": 1,
+    "stem": "수확한 토마토를 크기별로 나누어 상자에 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약해야 합니다",
+      "조심해야 합니다",
+      "송금해야 합니다",
+      "인쇄해야 합니다"
+    ],
+    "answer": 1,
+    "stem": "젖은 밭에서는 미끄러질 수 있으니 _______."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition",
+    "prompt": "다음 설명에 알맞은 단어를 고르십시오.",
+    "options": [
+      "기숙사",
+      "주차장",
+      "우체국",
+      "온실"
+    ],
+    "answer": 3,
+    "stem": "비닐로 만든 시설 안에서 온도와 습도를 조절하며 작물을 기르는 곳입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "토마토는 한낮에만 수확합니다.",
+      "수확한 토마토는 햇볕에 오래 둡니다.",
+      "수확 후에는 상자에 넣지 않습니다.",
+      "토마토는 오전에 수확하는 것이 좋습니다."
+    ],
+    "answer": 3,
+    "passage": "토마토는 기온이 낮은 오전에 수확하면 신선도를 오래 유지할 수 있습니다. 수확한 토마토는 바로 선별해서 상자에 담고 그늘진 곳에 둡니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_reading",
+    "prompt": "다음 안내를 읽고 맞는 것을 고르십시오.",
+    "options": [
+      "농약 통은 아무 곳에나 둡니다.",
+      "농약을 맨손으로 섞습니다.",
+      "사용 후에는 농약 통을 정해진 곳에 보관합니다.",
+      "바람이 강할수록 농약을 뿌립니다."
+    ],
+    "answer": 2,
+    "passage": "[농약 사용 안전수칙] 장갑과 마스크를 착용하고 바람이 강한 날에는 살포하지 마십시오. 사용한 농약과 용기는 정해진 장소에 보관하십시오."
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "잡초를 제거하면 작물이 잘 자라는 데 도움이 됩니다.",
+      "잡초는 작물에 항상 도움이 됩니다.",
+      "물을 너무 많이 주는 것이 좋습니다.",
+      "밭의 상태는 확인할 필요가 없습니다."
+    ],
+    "answer": 0,
+    "passage": "작물이 건강하게 자라려면 밭의 상태를 자주 확인해야 합니다. 잡초가 많으면 영양분을 빼앗기기 때문에 제거하고, 흙이 너무 마르면 필요한 만큼 물을 줍니다."
+  }
+]

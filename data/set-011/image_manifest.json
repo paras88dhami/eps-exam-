@@ -1,0 +1,314 @@
+[
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q01.webp",
+    "book_page": 70,
+    "source_xref": 1837,
+    "candidate_index": 129,
+    "description": "손수레"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q02.webp",
+    "book_page": 110,
+    "source_xref": 2718,
+    "candidate_index": 41,
+    "description": "물건을 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q10.webp",
+    "book_page": 70,
+    "source_xref": 1831,
+    "candidate_index": 126,
+    "description": "화물차에서 짐을 내리고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q23-1.webp",
+    "book_page": 110,
+    "source_xref": 2718,
+    "candidate_index": 41,
+    "description": "물건을 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q23-2.webp",
+    "book_page": 277,
+    "source_xref": 6466,
+    "candidate_index": 88,
+    "description": "상자를 옮기고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q23-3.webp",
+    "book_page": 60,
+    "source_xref": 1653,
+    "candidate_index": 205,
+    "description": "상자를 쌓고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q23-4.webp",
+    "book_page": 71,
+    "source_xref": 1850,
+    "candidate_index": 175,
+    "description": "화물차에서 짐을 내리고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q24-1.webp",
+    "book_page": 59,
+    "source_xref": 1631,
+    "candidate_index": 188,
+    "description": "창고에서 작업하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q24-2.webp",
+    "book_page": 61,
+    "source_xref": 1667,
+    "candidate_index": 22,
+    "description": "창고에서 일하는 작업자"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q24-3.webp",
+    "book_page": 60,
+    "source_xref": 1660,
+    "candidate_index": 172,
+    "description": "창고에서 확인하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q24-4.webp",
+    "book_page": 110,
+    "source_xref": 2718,
+    "candidate_index": 41,
+    "description": "물건을 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q25-1.webp",
+    "book_page": 277,
+    "source_xref": 6466,
+    "candidate_index": 88,
+    "description": "상자를 옮기고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q25-2.webp",
+    "book_page": 110,
+    "source_xref": 2718,
+    "candidate_index": 41,
+    "description": "물건을 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q25-3.webp",
+    "book_page": 67,
+    "source_xref": 1798,
+    "candidate_index": 24,
+    "description": "상자를 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q25-4.webp",
+    "book_page": 60,
+    "source_xref": 1653,
+    "candidate_index": 205,
+    "description": "상자를 쌓고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q26-1.webp",
+    "book_page": 60,
+    "source_xref": 1653,
+    "candidate_index": 205,
+    "description": "상자를 쌓고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q26-2.webp",
+    "book_page": 277,
+    "source_xref": 6466,
+    "candidate_index": 88,
+    "description": "상자를 옮기고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q26-3.webp",
+    "book_page": 110,
+    "source_xref": 2718,
+    "candidate_index": 41,
+    "description": "물건을 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q26-4.webp",
+    "book_page": 67,
+    "source_xref": 1798,
+    "candidate_index": 24,
+    "description": "상자를 포장하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q27-1.webp",
+    "book_page": 70,
+    "source_xref": 1837,
+    "candidate_index": 129,
+    "description": "손수레"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q27-2.webp",
+    "book_page": 71,
+    "source_xref": 1852,
+    "candidate_index": 220,
+    "description": "화물차"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q27-3.webp",
+    "book_page": 70,
+    "source_xref": 1831,
+    "candidate_index": 126,
+    "description": "화물차에서 짐을 내리고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q27-4.webp",
+    "book_page": 70,
+    "source_xref": 1836,
+    "candidate_index": 25,
+    "description": "손수레"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q34-1.webp",
+    "book_page": 27,
+    "source_xref": 934,
+    "candidate_index": 137,
+    "description": "관리실"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q34-2.webp",
+    "book_page": 287,
+    "source_xref": 6684,
+    "candidate_index": 90,
+    "description": "은행에서 업무를 보고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q34-3.webp",
+    "book_page": 37,
+    "source_xref": 1127,
+    "candidate_index": 14,
+    "description": "안내 데스크 직원"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q34-4.webp",
+    "book_page": 37,
+    "source_xref": 1124,
+    "candidate_index": 193,
+    "description": "컴퓨터로 일하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q35-1.webp",
+    "book_page": 37,
+    "source_xref": 1124,
+    "candidate_index": 193,
+    "description": "컴퓨터로 일하고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q35-2.webp",
+    "book_page": 281,
+    "source_xref": 6579,
+    "candidate_index": 232,
+    "description": "컴퓨터로 보험 업무를 보고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q35-3.webp",
+    "book_page": 37,
+    "source_xref": 1127,
+    "candidate_index": 14,
+    "description": "안내 데스크 직원"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q35-4.webp",
+    "book_page": 27,
+    "source_xref": 934,
+    "candidate_index": 137,
+    "description": "관리실"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q36-1.webp",
+    "book_page": 300,
+    "source_xref": 6919,
+    "candidate_index": 95,
+    "description": "서류에 도장을 찍었습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q36-2.webp",
+    "book_page": 287,
+    "source_xref": 6684,
+    "candidate_index": 90,
+    "description": "은행에서 업무를 보고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q36-3.webp",
+    "book_page": 297,
+    "source_xref": 6867,
+    "candidate_index": 131,
+    "description": "여권"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q36-4.webp",
+    "book_page": 297,
+    "source_xref": 6868,
+    "candidate_index": 94,
+    "description": "돈을 내고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q37-1.webp",
+    "book_page": 297,
+    "source_xref": 6868,
+    "candidate_index": 94,
+    "description": "돈을 내고 있습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q37-2.webp",
+    "book_page": 300,
+    "source_xref": 6919,
+    "candidate_index": 95,
+    "description": "서류에 도장을 찍었습니다"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q37-3.webp",
+    "book_page": 297,
+    "source_xref": 6867,
+    "candidate_index": 131,
+    "description": "여권"
+  },
+  {
+    "set": "set-011",
+    "asset": "assets/questions/set-011/q37-4.webp",
+    "book_page": 281,
+    "source_xref": 6579,
+    "candidate_index": 232,
+    "description": "컴퓨터로 보험 업무를 보고 있습니다"
+  }
+]

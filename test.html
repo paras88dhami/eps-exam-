@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f4c81">
+  <title>EPS-TOPIK Test</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/test.css">
+</head>
+<body>
+  <header class="exam-header">
+    <div class="exam-brand"><span class="brand-chip">EPS-TOPIK</span><strong id="sectionTitle">읽기 · Reading</strong></div>
+    <div class="exam-header-right"><span id="answeredCount" class="answered-count">답변 · Answered 0 / 40</span><span id="timer" class="timer">50:00</span></div>
+  </header>
+  <main class="exam-layout">
+    <aside class="navigator-card">
+      <div class="navigator-section"><div class="navigator-title">읽기 · Reading <span>1–20</span></div><div id="readingNav" class="navigator-grid"></div></div>
+      <div class="navigator-section"><div class="navigator-title">듣기 · Listening <span>21–40</span></div><div id="listeningNav" class="navigator-grid"></div></div>
+    </aside>
+    <section class="question-card">
+      <div class="question-topline"><div><span id="questionNumber" class="question-number">1</span><span id="sectionBadge" class="section-badge">읽기 · Reading</span></div><span id="progressLabel" class="progress-label">1 / 40</span></div>
+      <div class="progress-track"><div id="progressBar" class="progress-bar"></div></div>
+      <p id="prompt" class="question-prompt"></p>
+      <div id="mediaWrap" class="media-wrap hidden"></div>
+      <div id="audioWrap" class="audio-wrap hidden">
+        <button id="audioButton" class="audio-button" type="button" aria-label="듣기 · Play Audio"><span class="audio-icon" aria-hidden="true">▶</span><span>듣기 · Play Audio</span></button>
+        <span id="audioCount" class="audio-count"></span>
+      </div>
+      <div id="stem" class="question-stem hidden"></div>
+      <div id="options" class="options-grid"></div>
+      <div class="question-actions"><button id="prevButton" class="secondary-button" type="button">이전 · Previous</button><button id="nextButton" class="primary-button" type="button">다음 · Next</button></div>
+    </section>
+  </main>
+  <div id="submitModal" class="modal hidden" role="dialog" aria-modal="true">
+    <div class="modal-card"><h2>시험을 제출하시겠습니까? · Submit Test?</h2><p id="submitStatus"></p><div class="modal-actions"><button id="cancelSubmit" class="secondary-button" type="button">취소 · Cancel</button><button id="confirmSubmit" class="primary-button" type="button">제출 · Submit</button></div></div>
+  </div>
+  <script src="js/tts.js"></script>
+  <script src="js/test.js"></script>
+</body>
+</html>

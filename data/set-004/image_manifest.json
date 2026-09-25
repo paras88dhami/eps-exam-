@@ -1,0 +1,141 @@
+[
+  {
+    "question": 1,
+    "type": "image_choice",
+    "target": "assets/questions/set-004/q01.webp",
+    "spec": "A realistic pair of black industrial safety shoes with reinforced toes on a plain light background."
+  },
+  {
+    "question": 2,
+    "type": "image_sentence",
+    "target": "assets/questions/set-004/q02.webp",
+    "spec": "A realistic construction worker safely climbing a ladder, wearing helmet and work clothes, uncluttered worksite."
+  },
+  {
+    "question": 10,
+    "type": "graph",
+    "target": "assets/questions/set-004/q10.webp",
+    "spec": {
+      "kind": "bar_chart",
+      "title": "한국어 공부 시간",
+      "data": [
+        [
+          "1시간",
+          20
+        ],
+        [
+          "2시간",
+          40
+        ],
+        [
+          "3시간",
+          25
+        ],
+        [
+          "4시간 이상",
+          15
+        ]
+      ],
+      "style": "clean monochrome EPS-TOPIK exam chart"
+    }
+  },
+  {
+    "question": 23,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q23-1.webp",
+      "assets/questions/set-004/q23-2.webp",
+      "assets/questions/set-004/q23-3.webp",
+      "assets/questions/set-004/q23-4.webp"
+    ],
+    "spec": "Four-option realistic tool photo question; correct option is a wrench."
+  },
+  {
+    "question": 24,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q24-1.webp",
+      "assets/questions/set-004/q24-2.webp",
+      "assets/questions/set-004/q24-3.webp",
+      "assets/questions/set-004/q24-4.webp"
+    ],
+    "spec": "Four-option realistic PPE photo question; correct option is a safety helmet."
+  },
+  {
+    "question": 25,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q25-1.webp",
+      "assets/questions/set-004/q25-2.webp",
+      "assets/questions/set-004/q25-3.webp",
+      "assets/questions/set-004/q25-4.webp"
+    ],
+    "spec": "Four-option realistic vehicle photo question; correct option is a city bus."
+  },
+  {
+    "question": 26,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q26-1.webp",
+      "assets/questions/set-004/q26-2.webp",
+      "assets/questions/set-004/q26-3.webp",
+      "assets/questions/set-004/q26-4.webp"
+    ],
+    "spec": "Four-option realistic appliance photo question; correct option is a vacuum cleaner."
+  },
+  {
+    "question": 27,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q27-1.webp",
+      "assets/questions/set-004/q27-2.webp",
+      "assets/questions/set-004/q27-3.webp",
+      "assets/questions/set-004/q27-4.webp"
+    ],
+    "spec": "Four-option realistic shop information image; correct option is a price tag."
+  },
+  {
+    "question": 34,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q34-1.webp",
+      "assets/questions/set-004/q34-2.webp",
+      "assets/questions/set-004/q34-3.webp",
+      "assets/questions/set-004/q34-4.webp"
+    ],
+    "spec": "Four-option EPS-style realistic/diagram visual. Correct option: clock showing 4:30 PM. Three plausible distractors."
+  },
+  {
+    "question": 35,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q35-1.webp",
+      "assets/questions/set-004/q35-2.webp",
+      "assets/questions/set-004/q35-3.webp",
+      "assets/questions/set-004/q35-4.webp"
+    ],
+    "spec": "Four-option EPS-style realistic/diagram visual. Correct option: shipping receipt/price display showing 12,000 won. Three plausible distractors."
+  },
+  {
+    "question": 36,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-004/q36-1.webp",
+      "assets/questions/set-004/q36-2.webp",
+      "assets/questions/set-004/q36-3.webp",
+      "assets/questions/set-004/q36-4.webp"
+    ],
+    "spec": "Four-option EPS-style realistic/diagram visual. Correct option: realistic parcel positioned to the right of a chair. Three plausible distractors."
+  },
+  {
+    "question": 37,
+    "type": "audio_to_picture_options",
+    "target": [
+      "assets/questions/set-004/q37-1.webp",
+      "assets/questions/set-004/q37-2.webp",
+      "assets/questions/set-004/q37-3.webp",
+      "assets/questions/set-004/q37-4.webp"
+    ],
+    "spec": "Four realistic photo options; correct option is a realistic hand cart."
+  }
+]

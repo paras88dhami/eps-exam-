@@ -1,0 +1,557 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "은행에서 돈을 찾았어요.",
+      "오늘 이른 아침에 딸기를 수확했어요.",
+      "작업복을 세탁했어요.",
+      "기계를 고쳤어요."
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 이른 아침에 딸기를 수확했어요."
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "점심 전에 우체국에 가세요.",
+      "버스를 타고 병원에 가세요.",
+      "퇴근 후에 운동하세요.",
+      "비가 오기 전에 비닐하우스를 닫으세요."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "비가 오기 전에 비닐하우스를 닫으세요."
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q23-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q23-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q23-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "딸기입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q24-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q24-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q24-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "배입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q25-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q25-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q25-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q25-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 오리입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "들은 내용과 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q26-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q26-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q26-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q26-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 그물입니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "잘 듣고 내용과 맞는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q27-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q27-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q27-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q27-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 과수원에 약을 뿌리고 있습니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 몇 시부터 수확했어요?",
+      "optionsAudio": [
+        "딸기가 많이 열렸어요.",
+        "장갑을 샀어요.",
+        "고향에 갔어요.",
+        "이른 아침 여덟 시부터 했어요."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "질문을 듣고 가장 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 수확한 상자는 어디에 둘까요?",
+      "optionsAudio": [
+        "지금 버스가 늦었어요.",
+        "지금 우산을 샀어요.",
+        "지금 병원에 갔어요.",
+        "지금 창고 옆에 두세요."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "왜 영양제을 뿌리려고 해요?",
+      "optionsAudio": [
+        "잎에 벌레가 많아서요.",
+        "은행이 멀어서요.",
+        "신발이 작아서요.",
+        "길이 막혀서요."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "잘 듣고 이어질 말로 알맞은 것을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 보호구를 제대로 착용했어요?",
+      "optionsAudio": [
+        "지금 네, 지하철을 탔어요.",
+        "지금 네, 마스크와 장갑을 썼어요.",
+        "지금 아니요, 밥을 먹었어요.",
+        "지금 네, 통장을 만들었어요."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "흙이 너무 말랐는데 어떻게 해야 해요?",
+      "optionsAudio": [
+        "표를 사야 해요.",
+        "물을 조금 더 줘야 해요.",
+        "창문을 닫아야 해요.",
+        "사진을 찍어야 해요."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "은행이 네 시에 닫아요.",
+      "어제 영화 봤어요.",
+      "그럼 오후에 같이 수확해요.",
+      "버스가 곧 와요."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "배가 많이 익었네요."
+        },
+        {
+          "speaker": "female",
+          "text": "네, 오늘 안에 따는 게 좋겠어요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q34-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q34-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q34-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 흙을 삽으로 옮기고 있습니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "들은 내용과 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q35-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 배에서 그물을 사용하고 있습니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q36-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q36-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q36-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "딸기를 수확하고 있습니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-027/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q37-2.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-027/q37-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지금 오리들이 있습니다."
+    },
+    "visual_spec": "Four book-cropped visual options; audio describes the correct option."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 두 사람이 무엇에 대해 이야기하는지 고르십시오.",
+    "options": [
+      "은행 영업시간",
+      "기숙사 청소",
+      "딸기 수확 시기",
+      "병원 진료"
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "딸기가 아직 조금 작은 것 같아요."
+        },
+        {
+          "speaker": "male",
+          "text": "맞아요. 이틀 정도 더 기다렸다가 크기가 맞으면 수확합시다."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "남자는 지금 바로 영양제을 뿌립니다.",
+      "여자는 보호구가 필요 없다고 말합니다.",
+      "남자는 바람이 강해서 영양제 살포를 미룹니다.",
+      "오늘은 바람이 전혀 불지 않습니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "오늘 영양제을 뿌리려고 했는데 바람이 너무 세네요."
+        },
+        {
+          "speaker": "female",
+          "text": "그럼 오늘은 하지 말고 바람이 약한 날에 하는 게 안전해요."
+        },
+        {
+          "speaker": "male",
+          "text": "네, 내일 날씨를 다시 확인할게요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "수확한 채소를 햇볕 아래 오래 둡니다.",
+      "수확한 채소는 선별한 뒤 시원한 곳에 보관합니다.",
+      "크기와 상관없이 한 상자에 모두 넣습니다.",
+      "상자는 젖은 곳에 보관합니다."
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "수확한 딸기는 바로 상자에 넣으면 돼요?"
+        },
+        {
+          "speaker": "male",
+          "text": "먼저 크기와 상태를 확인해서 선별하세요. 그다음 상자에 담아 시원한 창고에 보관하면 됩니다."
+        },
+        {
+          "speaker": "female",
+          "text": "네, 상한 것은 따로 빼겠습니다."
+        }
+      ]
+    }
+  }
+]

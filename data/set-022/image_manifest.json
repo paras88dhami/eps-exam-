@@ -1,0 +1,314 @@
+[
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q01.webp",
+    "book_page": 167,
+    "source_xref": 4172,
+    "candidate_index": 61,
+    "description": "모종삽"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q02.webp",
+    "book_page": 161,
+    "source_xref": 4047,
+    "candidate_index": 59,
+    "description": "사과를 따고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q10.webp",
+    "book_page": 143,
+    "source_xref": 3347,
+    "candidate_index": 52,
+    "description": "트랙터"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q23-1.webp",
+    "book_page": 157,
+    "source_xref": 3912,
+    "candidate_index": 56,
+    "description": "오이"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q23-2.webp",
+    "book_page": 160,
+    "source_xref": 4026,
+    "candidate_index": 58,
+    "description": "참외"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q23-3.webp",
+    "book_page": 227,
+    "source_xref": 5561,
+    "candidate_index": 77,
+    "description": "채소"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q23-4.webp",
+    "book_page": 230,
+    "source_xref": 5596,
+    "candidate_index": 174,
+    "description": "양파"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q24-1.webp",
+    "book_page": 157,
+    "source_xref": 3912,
+    "candidate_index": 56,
+    "description": "오이"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q24-2.webp",
+    "book_page": 160,
+    "source_xref": 4026,
+    "candidate_index": 58,
+    "description": "참외"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q24-3.webp",
+    "book_page": 227,
+    "source_xref": 5561,
+    "candidate_index": 77,
+    "description": "채소"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q24-4.webp",
+    "book_page": 230,
+    "source_xref": 5596,
+    "candidate_index": 174,
+    "description": "양파"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q25-1.webp",
+    "book_page": 174,
+    "source_xref": 4265,
+    "candidate_index": 63,
+    "description": "오리"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q25-2.webp",
+    "book_page": 167,
+    "source_xref": 4167,
+    "candidate_index": 180,
+    "description": "오리"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q25-3.webp",
+    "book_page": 177,
+    "source_xref": 4352,
+    "candidate_index": 64,
+    "description": "그물"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q25-4.webp",
+    "book_page": 277,
+    "source_xref": 6481,
+    "candidate_index": 187,
+    "description": "배에서 그물을 사용하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q26-1.webp",
+    "book_page": 177,
+    "source_xref": 4346,
+    "candidate_index": 132,
+    "description": "뜰채"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q26-2.webp",
+    "book_page": 277,
+    "source_xref": 6481,
+    "candidate_index": 187,
+    "description": "배에서 그물을 사용하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q26-3.webp",
+    "book_page": 184,
+    "source_xref": 4450,
+    "candidate_index": 221,
+    "description": "부표"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q26-4.webp",
+    "book_page": 177,
+    "source_xref": 4352,
+    "candidate_index": 64,
+    "description": "그물"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q27-1.webp",
+    "book_page": 161,
+    "source_xref": 4047,
+    "candidate_index": 59,
+    "description": "사과를 따고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q27-2.webp",
+    "book_page": 165,
+    "source_xref": 4094,
+    "candidate_index": 60,
+    "description": "과수원에 약을 뿌리고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q27-3.webp",
+    "book_page": 158,
+    "source_xref": 3932,
+    "candidate_index": 202,
+    "description": "오이를 수확하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q27-4.webp",
+    "book_page": 171,
+    "source_xref": 4219,
+    "candidate_index": 155,
+    "description": "밭에서 괭이질을 하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q34-1.webp",
+    "book_page": 171,
+    "source_xref": 4219,
+    "candidate_index": 155,
+    "description": "밭에서 괭이질을 하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q34-2.webp",
+    "book_page": 158,
+    "source_xref": 3932,
+    "candidate_index": 202,
+    "description": "오이를 수확하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q34-3.webp",
+    "book_page": 161,
+    "source_xref": 4047,
+    "candidate_index": 59,
+    "description": "사과를 따고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q34-4.webp",
+    "book_page": 158,
+    "source_xref": 3936,
+    "candidate_index": 57,
+    "description": "흙을 삽으로 옮기고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q35-1.webp",
+    "book_page": 177,
+    "source_xref": 4352,
+    "candidate_index": 64,
+    "description": "그물"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q35-2.webp",
+    "book_page": 277,
+    "source_xref": 6481,
+    "candidate_index": 187,
+    "description": "배에서 그물을 사용하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q35-3.webp",
+    "book_page": 177,
+    "source_xref": 4346,
+    "candidate_index": 132,
+    "description": "뜰채"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q35-4.webp",
+    "book_page": 184,
+    "source_xref": 4450,
+    "candidate_index": 221,
+    "description": "부표"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q36-1.webp",
+    "book_page": 157,
+    "source_xref": 3912,
+    "candidate_index": 56,
+    "description": "오이"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q36-2.webp",
+    "book_page": 161,
+    "source_xref": 4047,
+    "candidate_index": 59,
+    "description": "사과를 따고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q36-3.webp",
+    "book_page": 158,
+    "source_xref": 3932,
+    "candidate_index": 202,
+    "description": "오이를 수확하고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q36-4.webp",
+    "book_page": 165,
+    "source_xref": 4094,
+    "candidate_index": 60,
+    "description": "과수원에 약을 뿌리고 있습니다"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q37-1.webp",
+    "book_page": 174,
+    "source_xref": 4265,
+    "candidate_index": 63,
+    "description": "오리"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q37-2.webp",
+    "book_page": 177,
+    "source_xref": 4352,
+    "candidate_index": 64,
+    "description": "그물"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q37-3.webp",
+    "book_page": 167,
+    "source_xref": 4167,
+    "candidate_index": 180,
+    "description": "오리"
+  },
+  {
+    "set": "set-022",
+    "asset": "assets/questions/set-022/q37-4.webp",
+    "book_page": 277,
+    "source_xref": 6481,
+    "candidate_index": 187,
+    "description": "배에서 그물을 사용하고 있습니다"
+  }
+]

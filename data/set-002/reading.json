@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "작업복",
+      "용접면",
+      "안전화",
+      "귀마개"
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-002/q01.webp",
+    "visual_spec": "A realistic welding helmet photographed alone against a plain light background, Korean industrial safety training style."
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "여자가 전화를 받고 있습니다.",
+      "여자가 음식을 만들고 있습니다.",
+      "여자가 창문을 열고 있습니다.",
+      "여자가 바닥을 닦고 있습니다."
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-002/q02.webp",
+    "visual_spec": "A realistic woman cleaning a workplace floor with a mop, simple uncluttered indoor scene."
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "오",
+      "으",
+      "아",
+      "우"
+    ],
+    "answer": 3,
+    "stem": "비가 오니까 ___산을 가지고 가세요."
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 밑줄 친 부분이 틀린 것을 고르십시오.",
+    "options": [
+      "집에 갑니다.",
+      "회사에서 일합니다.",
+      "친구와 이야기합니다.",
+      "어제 병원에 가요."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "버리다",
+      "닫다",
+      "수리하다",
+      "옮기다"
+    ],
+    "answer": 2,
+    "stem": "고치다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "좁다",
+      "높다",
+      "길다",
+      "밝다"
+    ],
+    "answer": 0,
+    "stem": "넓다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "운전",
+      "용접",
+      "포장",
+      "진료"
+    ],
+    "answer": 3,
+    "stem": "병원"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "송금",
+      "청소",
+      "진료",
+      "출근"
+    ],
+    "answer": 2,
+    "stem": "접수 → 대기 → ___ → 약 받기"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "사진을 찍어야 합니다.",
+      "여기에서 기다려야 합니다.",
+      "들어가면 안 됩니다.",
+      "문을 열어야 합니다."
+    ],
+    "answer": 2,
+    "stem": "출입 금지"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "graph",
+    "prompt": "다음 그래프의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "운동은(는) 10%입니다.",
+      "친구 만나기과(와) 쇼핑은(는) 같습니다.",
+      "운동이(가) 가장 많습니다.",
+      "휴식이(가) 가장 많습니다."
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-002/q10.webp",
+    "visual_spec": {
+      "kind": "bar_chart",
+      "title": "주말 활동",
+      "data": [
+        [
+          "운동",
+          40
+        ],
+        [
+          "친구 만나기",
+          30
+        ],
+        [
+          "쇼핑",
+          20
+        ],
+        [
+          "휴식",
+          10
+        ]
+      ],
+      "style": "clean monochrome EPS-TOPIK exam chart"
+    }
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "약속",
+      "주문",
+      "확인",
+      "여행"
+    ],
+    "answer": 2,
+    "stem": "작업을 시작하기 전에 장비가 안전한지 먼저 ___해야 합니다."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "하지만",
+      "마다",
+      "보다",
+      "해서"
+    ],
+    "answer": 3,
+    "stem": "어제 운동을 ___ 오늘은 조금 피곤합니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "열어",
+      "입어",
+      "타",
+      "놓아"
+    ],
+    "answer": 3,
+    "stem": "청소 도구를 사용한 후에는 제자리에 ___ 주세요."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "만드세요",
+      "끄세요",
+      "가세요",
+      "자르세요"
+    ],
+    "answer": 2,
+    "stem": "몸이 아프면 무리하지 말고 병원에 ___."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "갈아야",
+      "지켜야",
+      "팔아야",
+      "빌려야"
+    ],
+    "answer": 1,
+    "stem": "병원에서는 안전 규칙을 꼭 ___ 합니다."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "타세요",
+      "끄세요",
+      "입으세요",
+      "드세요"
+    ],
+    "answer": 1,
+    "stem": "퇴근하기 전에 전등과 장비를 모두 ___."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "수확",
+      "진료",
+      "용접",
+      "포장"
+    ],
+    "answer": 1,
+    "stem": "병원에서 의사가 환자의 상태를 살펴보는 것을 말합니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "수진 씨는 약을 사지 않았습니다.",
+      "수진 씨는 운동을 하러 갔습니다.",
+      "수진 씨는 어제 병원에 갔습니다.",
+      "수진 씨는 병원에 갔습니다."
+    ],
+    "answer": 3,
+    "stem": "수진 씨는 감기에 걸려서 오늘 아침 병원에 갔습니다. 진료를 받은 후 약국에서 약을 샀습니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "회사 식당에서 합니다.",
+      "건강 검진은 6월 8일입니다.",
+      "오후 3시에 시작합니다.",
+      "건강 검진은 오전에 합니다."
+    ],
+    "answer": 3,
+    "stem": "건강 검진 안내\n날짜: 6월 18일\n시간: 오전 9시~12시\n장소: 한빛병원"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "약은 병원 밖에서 살 수 없습니다.",
+      "건강보험은 병원 이용과 관계가 없습니다.",
+      "아프면 반드시 회사에서만 진료받습니다.",
+      "처방전으로 약국에서 약을 살 수 있습니다."
+    ],
+    "answer": 3,
+    "stem": "한국에서는 아플 때 가까운 병원이나 의원에서 진료를 받을 수 있습니다. 진료 후 처방전을 받으면 약국에서 약을 살 수 있습니다. 건강보험에 가입되어 있으면 진료비의 일부를 지원받을 수 있습니다."
+  }
+]

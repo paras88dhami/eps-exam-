@@ -1,0 +1,141 @@
+[
+  {
+    "question": 1,
+    "type": "image_choice",
+    "target": "assets/questions/set-001/q01.webp",
+    "spec": "A realistic clear pair of industrial safety goggles on a plain light background, EPS-TOPIK exam photo style."
+  },
+  {
+    "question": 2,
+    "type": "image_sentence",
+    "target": "assets/questions/set-001/q02.webp",
+    "spec": "A realistic Korean industrial worker wearing ordinary workwear and carrying a cardboard box with both hands in a clean warehouse aisle."
+  },
+  {
+    "question": 10,
+    "type": "graph",
+    "target": "assets/questions/set-001/q10.webp",
+    "spec": {
+      "kind": "bar_chart",
+      "title": "외국인 근로자의 출퇴근 방법",
+      "data": [
+        [
+          "버스",
+          45
+        ],
+        [
+          "도보",
+          25
+        ],
+        [
+          "자전거",
+          20
+        ],
+        [
+          "기타",
+          10
+        ]
+      ],
+      "style": "clean monochrome EPS-TOPIK exam chart"
+    }
+  },
+  {
+    "question": 23,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q23-1.webp",
+      "assets/questions/set-001/q23-2.webp",
+      "assets/questions/set-001/q23-3.webp",
+      "assets/questions/set-001/q23-4.webp"
+    ],
+    "spec": "Four-option realistic photo question; correct option is a red fire extinguisher, distractors are industrial objects."
+  },
+  {
+    "question": 24,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q24-1.webp",
+      "assets/questions/set-001/q24-2.webp",
+      "assets/questions/set-001/q24-3.webp",
+      "assets/questions/set-001/q24-4.webp"
+    ],
+    "spec": "Four-option realistic photo question; correct option is a metal claw hammer."
+  },
+  {
+    "question": 25,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q25-1.webp",
+      "assets/questions/set-001/q25-2.webp",
+      "assets/questions/set-001/q25-3.webp",
+      "assets/questions/set-001/q25-4.webp"
+    ],
+    "spec": "Four-option realistic workplace vehicle photo question; correct option is a forklift."
+  },
+  {
+    "question": 26,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q26-1.webp",
+      "assets/questions/set-001/q26-2.webp",
+      "assets/questions/set-001/q26-3.webp",
+      "assets/questions/set-001/q26-4.webp"
+    ],
+    "spec": "Four-option realistic PPE photo question; correct option is work gloves."
+  },
+  {
+    "question": 27,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q27-1.webp",
+      "assets/questions/set-001/q27-2.webp",
+      "assets/questions/set-001/q27-3.webp",
+      "assets/questions/set-001/q27-4.webp"
+    ],
+    "spec": "Four-option realistic workplace object photo question; correct option is a ladder."
+  },
+  {
+    "question": 34,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q34-1.webp",
+      "assets/questions/set-001/q34-2.webp",
+      "assets/questions/set-001/q34-3.webp",
+      "assets/questions/set-001/q34-4.webp"
+    ],
+    "spec": "Four-option EPS-style realistic/diagram visual. Correct option: clock showing 8:30 AM. Three plausible distractors."
+  },
+  {
+    "question": 35,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q35-1.webp",
+      "assets/questions/set-001/q35-2.webp",
+      "assets/questions/set-001/q35-3.webp",
+      "assets/questions/set-001/q35-4.webp"
+    ],
+    "spec": "Four-option EPS-style realistic/diagram visual. Correct option: price tag showing 35,000 won. Three plausible distractors."
+  },
+  {
+    "question": 36,
+    "type": "listen_image",
+    "target": [
+      "assets/questions/set-001/q36-1.webp",
+      "assets/questions/set-001/q36-2.webp",
+      "assets/questions/set-001/q36-3.webp",
+      "assets/questions/set-001/q36-4.webp"
+    ],
+    "spec": "Four-option EPS-style realistic/diagram visual. Correct option: realistic box positioned under a desk. Three plausible distractors."
+  },
+  {
+    "question": 37,
+    "type": "audio_to_picture_options",
+    "target": [
+      "assets/questions/set-001/q37-1.webp",
+      "assets/questions/set-001/q37-2.webp",
+      "assets/questions/set-001/q37-3.webp",
+      "assets/questions/set-001/q37-4.webp"
+    ],
+    "spec": "Four realistic photo options; correct option is a safe industrial ladder."
+  }
+]

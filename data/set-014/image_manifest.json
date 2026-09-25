@@ -1,0 +1,314 @@
+[
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q01.webp",
+    "book_page": 90,
+    "source_xref": 2266,
+    "candidate_index": 134,
+    "description": "드라이버"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q02.webp",
+    "book_page": 120,
+    "source_xref": 2895,
+    "candidate_index": 145,
+    "description": "공장 생산 라인"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q10.webp",
+    "book_page": 80,
+    "source_xref": 2050,
+    "candidate_index": 29,
+    "description": "프레스 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q23-1.webp",
+    "book_page": 80,
+    "source_xref": 2050,
+    "candidate_index": 29,
+    "description": "프레스 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q23-2.webp",
+    "book_page": 122,
+    "source_xref": 2914,
+    "candidate_index": 45,
+    "description": "공장 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q23-3.webp",
+    "book_page": 100,
+    "source_xref": 2494,
+    "candidate_index": 36,
+    "description": "절단기"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q23-4.webp",
+    "book_page": 322,
+    "source_xref": 7721,
+    "candidate_index": 170,
+    "description": "테이블 톱"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q24-1.webp",
+    "book_page": 122,
+    "source_xref": 2914,
+    "candidate_index": 45,
+    "description": "공장 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q24-2.webp",
+    "book_page": 80,
+    "source_xref": 2050,
+    "candidate_index": 29,
+    "description": "프레스 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q24-3.webp",
+    "book_page": 84,
+    "source_xref": 2131,
+    "candidate_index": 231,
+    "description": "프레스 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q24-4.webp",
+    "book_page": 322,
+    "source_xref": 7721,
+    "candidate_index": 170,
+    "description": "테이블 톱"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q25-1.webp",
+    "book_page": 322,
+    "source_xref": 7721,
+    "candidate_index": 170,
+    "description": "테이블 톱"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q25-2.webp",
+    "book_page": 100,
+    "source_xref": 2494,
+    "candidate_index": 36,
+    "description": "절단기"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q25-3.webp",
+    "book_page": 80,
+    "source_xref": 2050,
+    "candidate_index": 29,
+    "description": "프레스 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q25-4.webp",
+    "book_page": 84,
+    "source_xref": 2131,
+    "candidate_index": 231,
+    "description": "프레스 기계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q26-1.webp",
+    "book_page": 90,
+    "source_xref": 2271,
+    "candidate_index": 33,
+    "description": "수평계"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q26-2.webp",
+    "book_page": 108,
+    "source_xref": 2692,
+    "candidate_index": 159,
+    "description": "버니어 캘리퍼스"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q26-3.webp",
+    "book_page": 203,
+    "source_xref": 4845,
+    "candidate_index": 71,
+    "description": "자"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q26-4.webp",
+    "book_page": 115,
+    "source_xref": 2783,
+    "candidate_index": 229,
+    "description": "버니어 캘리퍼스"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q27-1.webp",
+    "book_page": 322,
+    "source_xref": 7722,
+    "candidate_index": 119,
+    "description": "끌"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q27-2.webp",
+    "book_page": 214,
+    "source_xref": 5041,
+    "candidate_index": 130,
+    "description": "톱"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q27-3.webp",
+    "book_page": 90,
+    "source_xref": 2266,
+    "candidate_index": 134,
+    "description": "드라이버"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q27-4.webp",
+    "book_page": 105,
+    "source_xref": 2573,
+    "candidate_index": 212,
+    "description": "망치"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q34-1.webp",
+    "book_page": 27,
+    "source_xref": 936,
+    "candidate_index": 146,
+    "description": "주방"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q34-2.webp",
+    "book_page": 287,
+    "source_xref": 6691,
+    "candidate_index": 167,
+    "description": "국자로 음식을 담고 있습니다"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q34-3.webp",
+    "book_page": 34,
+    "source_xref": 1037,
+    "candidate_index": 216,
+    "description": "오븐"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q34-4.webp",
+    "book_page": 230,
+    "source_xref": 5594,
+    "candidate_index": 201,
+    "description": "유제품"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q35-1.webp",
+    "book_page": 27,
+    "source_xref": 936,
+    "candidate_index": 146,
+    "description": "주방"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q35-2.webp",
+    "book_page": 34,
+    "source_xref": 1037,
+    "candidate_index": 216,
+    "description": "오븐"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q35-3.webp",
+    "book_page": 110,
+    "source_xref": 2717,
+    "candidate_index": 219,
+    "description": "포크와 나이프"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q35-4.webp",
+    "book_page": 287,
+    "source_xref": 6691,
+    "candidate_index": 167,
+    "description": "국자로 음식을 담고 있습니다"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q36-1.webp",
+    "book_page": 27,
+    "source_xref": 936,
+    "candidate_index": 146,
+    "description": "주방"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q36-2.webp",
+    "book_page": 34,
+    "source_xref": 1037,
+    "candidate_index": 216,
+    "description": "오븐"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q36-3.webp",
+    "book_page": 287,
+    "source_xref": 6691,
+    "candidate_index": 167,
+    "description": "국자로 음식을 담고 있습니다"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q36-4.webp",
+    "book_page": 230,
+    "source_xref": 5594,
+    "candidate_index": 201,
+    "description": "유제품"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q37-1.webp",
+    "book_page": 120,
+    "source_xref": 2895,
+    "candidate_index": 145,
+    "description": "공장 생산 라인"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q37-2.webp",
+    "book_page": 279,
+    "source_xref": 6501,
+    "candidate_index": 239,
+    "description": "조립 라인에서 일하고 있습니다"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q37-3.webp",
+    "book_page": 229,
+    "source_xref": 5585,
+    "candidate_index": 183,
+    "description": "식품 공장에서 일하고 있습니다"
+  },
+  {
+    "set": "set-014",
+    "asset": "assets/questions/set-014/q37-4.webp",
+    "book_page": 119,
+    "source_xref": 2881,
+    "candidate_index": 207,
+    "description": "실을 생산하고 있습니다"
+  }
+]

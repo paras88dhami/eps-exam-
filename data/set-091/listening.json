@@ -1,0 +1,564 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "오늘 저녁에는 친구와 영화를 보러 갈 거예요.",
+      "주말에는 방 청소를 하고 빨래를 하려고 합니다.",
+      "냉장 제품은 도착하자마자 냉장고에 넣어 주세요.",
+      "내일 아침에는 공원에서 운동할 예정입니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "냉장 제품은 도착하자마자 냉장고에 넣어 주세요."
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "주말에는 방 청소를 하고 빨래를 하려고 합니다.",
+      "내일 아침에는 공원에서 운동할 예정입니다.",
+      "휴대전화를 잃어버려서 조금 걱정됩니다.",
+      "기숙사 세탁실은 밤 열 시까지만 사용할 수 있습니다."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "농장과 비닐하우스 작업 상황입니다. 기숙사 세탁실은 밤 열 시까지만 사용할 수 있습니다."
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q23-4.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q23-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q23-3.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "화면 속 장면은 오리와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q24-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q24-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q24-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "도로 롤러와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q25-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q25-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q25-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q25-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "그림에 나온 장면은 무게 측정와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q26-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q26-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q26-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q26-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "저온 창고를 볼 수 있습니다.와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q27-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q27-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q27-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q27-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "기계 사고 장면입니다."
+    }
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "검사 결과는 언제 나와요?",
+      "optionsAudio": [
+        "내일 오후에 나옵니다.",
+        "왼쪽으로 돌리세요.",
+        "장갑을 세 켤레 샀어요.",
+        "열두 시에 문을 닫아요."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 점심 메뉴가 뭐예요?",
+      "optionsAudio": [
+        "부품을 교체했습니다.",
+        "회의는 내일입니다.",
+        "된장찌개예요.",
+        "오전 아홉 시입니다."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "농장과 비닐하우스 작업에서 묻습니다. 택배 상자는 몇 개 준비하면 돼요?",
+      "optionsAudio": [
+        "병원은 저쪽입니다.",
+        "큰 상자 두 개면 돼요.",
+        "생선이 싱싱합니다.",
+        "휴무일은 토요일이에요."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "농장과 비닐하우스 작업에서 묻습니다. 비닐하우스 온도는 몇 도예요?",
+      "optionsAudio": [
+        "부엌이 넓어요.",
+        "세탁기가 고장 났어요.",
+        "지금은 스물다섯 도예요.",
+        "오른손으로 잡으세요."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 통근버스는 몇 시에 출발해요?",
+      "optionsAudio": [
+        "일곱 시 십 분에 출발해요.",
+        "창구가 닫혔습니다.",
+        "표지를 붙이세요.",
+        "약을 먹었습니다."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "아니요, 오늘은 병원에 가요.",
+      "네, 버스 정류장이 멀어요.",
+      "좋아요, 점심은 비빔밥이에요.",
+      "그럼 제가 마저 포장할게요."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "배송할 상자가 다 준비됐어요?"
+        },
+        {
+          "speaker": "female",
+          "text": "아직 하나가 남았어요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q34-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q34-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q34-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "접수 번호는 백이십삼 번입니다."
+    }
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q35-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "엘리베이터는 오른쪽 복도 끝에 있습니다."
+    }
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q36-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q36-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q36-4.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지도에서 우체국은 시장 옆에 있습니다."
+    }
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-091/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q37-2.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-091/q37-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "이 표지는 미끄럼 주의를 뜻합니다."
+    }
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 두 사람이 무엇에 대해 이야기하는지 고르십시오.",
+    "options": [
+      "두 사람은 영화 예매에 대해 이야기하고 있습니다.",
+      "두 사람은 여행 계획에 대해 이야기하고 있습니다.",
+      "두 사람은 비닐하우스 관리에 대해 이야기하고 있습니다.",
+      "두 사람은 취미 활동에 대해 이야기하고 있습니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "오늘 아침에 토마토 구역에 물을 줬어요?"
+        },
+        {
+          "speaker": "male",
+          "text": "네, 일곱 시에 먼저 물을 줬습니다."
+        },
+        {
+          "speaker": "female",
+          "text": "그럼 오이 구역은 여덟 시에 시작하면 되겠네요."
+        },
+        {
+          "speaker": "male",
+          "text": "온도도 같이 확인해서 기록하겠습니다."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "오이 구역에는 여덟 시에 물을 줍니다.",
+      "두 사람은 주말 여행 일정을 정하고 있습니다.",
+      "대화에서 물건 가격 이야기는 나오지 않습니다.",
+      "두 사람은 서로 처음 만난 사람들입니다."
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "오늘 아침에 토마토 구역에 물을 줬어요?"
+        },
+        {
+          "speaker": "male",
+          "text": "네, 일곱 시에 먼저 물을 줬습니다."
+        },
+        {
+          "speaker": "female",
+          "text": "그럼 오이 구역은 여덟 시에 시작하면 되겠네요."
+        },
+        {
+          "speaker": "male",
+          "text": "온도도 같이 확인해서 기록하겠습니다."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "남자는 온도도 함께 기록하겠다고 말합니다.",
+      "두 사람은 오늘 영화를 보기로 했습니다.",
+      "두 사람은 서로의 고향을 묻고 있습니다.",
+      "두 사람은 휴가 계획만 이야기하고 있습니다."
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "오늘 아침에 토마토 구역에 물을 줬어요?"
+        },
+        {
+          "speaker": "male",
+          "text": "네, 일곱 시에 먼저 물을 줬습니다."
+        },
+        {
+          "speaker": "female",
+          "text": "그럼 오이 구역은 여덟 시에 시작하면 되겠네요."
+        },
+        {
+          "speaker": "male",
+          "text": "온도도 같이 확인해서 기록하겠습니다."
+        }
+      ]
+    }
+  }
+]

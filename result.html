@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f4c81">
+  <title>EPS-TOPIK Result</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <main class="result-shell">
+    <section class="result-card">
+      <p class="result-eyebrow">EPS-TOPIK</p>
+      <p id="resultSetTitle" class="result-set-title">Set</p>
+      <h1>시험 결과 · Test Result</h1>
+      <div class="score-block"><strong id="scoreText">0 / 40</strong><span id="percentText">0%</span></div>
+      <div class="score-grid">
+        <div><span>읽기 · Reading</span><strong id="readingScore">0 / 20</strong></div>
+        <div><span>듣기 · Listening</span><strong id="listeningScore">0 / 20</strong></div>
+        <div><span>정답 · Correct</span><strong id="correctCount">0</strong></div>
+        <div><span>오답 · Wrong</span><strong id="wrongCount">0</strong></div>
+      </div>
+      <div class="result-actions">
+        <a id="retryLink" class="primary-action" href="index.html">다시 풀기 · Try Again</a>
+        <a class="secondary-link" href="index.html">다른 시험 · All Sets</a>
+      </div>
+    </section>
+
+    <section id="wrongSection" class="wrong-section">
+      <div class="wrong-header">
+        <div>
+          <h2>틀린 문제 · Wrong Answers</h2>
+          <p>틀린 문제만 표시됩니다. · Only incorrect questions are shown.</p>
+        </div>
+        <span id="wrongQuestionCount">0</span>
+      </div>
+      <div id="wrongQuestions" class="wrong-questions"></div>
+    </section>
+  </main>
+  <script src="js/tts.js"></script>
+  <script src="js/result.js"></script>
+</body>
+</html>

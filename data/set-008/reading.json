@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "프레스 기계",
+      "저울",
+      "사다리",
+      "냉장고"
+    ],
+    "answer": 0,
+    "media": "assets/questions/set-008/q01.webp",
+    "visual_spec": "Book-cropped image: 프레스 기계"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "작업자가 병원에서 진료를 받고 있습니다.",
+      "작업자가 시장에서 장을 보고 있습니다.",
+      "작업자가 공장에서 일하고 있습니다.",
+      "작업자가 공원에서 운동하고 있습니다."
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-008/q02.webp",
+    "visual_spec": "Book-cropped scene: 공장에서 일하고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "문",
+      "정",
+      "장",
+      "차"
+    ],
+    "answer": 1,
+    "stem": "측___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "부품의 길이를 정확하게 재야 합니까가.",
+      "부품의 길이를 정확하게 재고 해야 합니다요.",
+      "부품의 길이를 정확하게 잽니다 해야.",
+      "부품의 길이를 정확하게 재야 합니다."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "더럽다",
+      "느리다",
+      "좁다",
+      "정밀하다"
+    ],
+    "answer": 3,
+    "stem": "정확하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "조용하다",
+      "정상이다",
+      "가볍다",
+      "따뜻하다"
+    ],
+    "answer": 1,
+    "stem": "고장 나다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "맛",
+      "날씨",
+      "길이",
+      "주소"
+    ],
+    "answer": 2,
+    "stem": "캘리퍼스"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "규격을 확인합니다.",
+      "여권을 만듭니다.",
+      "병원에 갑니다.",
+      "식사를 주문합니다."
+    ],
+    "answer": 0,
+    "stem": "부품을 조립한 뒤"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "문을 열어 두십시오.",
+      "전원을 켜지 마십시오.",
+      "신발을 벗으십시오.",
+      "사진을 찍으십시오."
+    ],
+    "answer": 1,
+    "stem": "기계 점검 중"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "프레스 기계",
+      "작업복",
+      "캘리퍼스",
+      "스위치"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-008/q10.webp",
+    "visual_spec": "Book-cropped image: 캘리퍼스로 측정하고 있습니다"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약",
+      "송금",
+      "세탁",
+      "가공"
+    ],
+    "answer": 3,
+    "stem": "이 부품은 규격보다 길어서 다시 _______ 해야 합니다."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "끄세요",
+      "드세요",
+      "입으세요",
+      "타세요"
+    ],
+    "answer": 0,
+    "stem": "기계를 청소하기 전에 반드시 전원을 _______."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "출근합니다",
+      "연락합니다",
+      "포장합니다",
+      "운동합니다"
+    ],
+    "answer": 2,
+    "stem": "생산한 제품은 검사 후에 상자에 _______."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "기다려",
+      "분류해",
+      "요리해",
+      "공부해"
+    ],
+    "answer": 1,
+    "stem": "치수가 맞지 않는 제품은 따로 _______ 놓습니다."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "불렀습니다",
+      "읽었습니다",
+      "마셨습니다",
+      "걸었습니다"
+    ],
+    "answer": 0,
+    "stem": "오늘 기계가 고장 나서 정비 기사를 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "멀습니다",
+      "배고픕니다",
+      "조용합니다",
+      "중요합니다"
+    ],
+    "answer": 3,
+    "stem": "작업 속도보다 제품의 품질이 더 _______."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "국자",
+      "캘리퍼스",
+      "삽",
+      "여권"
+    ],
+    "answer": 1,
+    "stem": "물건의 길이나 두께를 정밀하게 측정할 때 사용하는 측정 도구입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "제품은 검사하지 않습니다.",
+      "첫 검사는 품질팀만 합니다.",
+      "문제가 있는 제품은 출고하지 않습니다.",
+      "검사는 조립 전에만 합니다."
+    ],
+    "answer": 2,
+    "stem": "우리 공정에서는 제품을 조립한 뒤 두 번 검사합니다. 첫 번째 검사는 작업자가 하고, 두 번째 검사는 품질팀이 합니다. 문제가 있는 제품은 출고하지 않습니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "점검은 오전에 합니다.",
+      "모든 생산 라인을 점검합니다.",
+      "점검 중에도 사용할 수 있습니다.",
+      "오후 2시부터 4시까지 3번 라인을 사용할 수 없습니다."
+    ],
+    "answer": 3,
+    "stem": "설비 점검 안내\n시간: 9월 25일 오후 2시~4시\n대상: 3번 생산 라인\n주의: 점검 중 사용 금지"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "현수 씨는 시험 제품의 치수를 측정했습니다.",
+      "현수 씨는 도면을 확인하지 않았습니다.",
+      "시험 제품이 규격과 달랐습니다.",
+      "현수 씨는 바로 본 생산부터 시작했습니다."
+    ],
+    "answer": 0,
+    "stem": "현수 씨는 새 부품을 생산하기 전에 도면을 확인했습니다. 먼저 기계의 설정값을 맞추고 시험 제품 한 개를 만들었습니다. 치수를 측정한 결과 규격과 같아서 본 생산을 시작했습니다."
+  }
+]

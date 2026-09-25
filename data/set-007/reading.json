@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "사과",
+      "참외",
+      "감자",
+      "오이"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-007/q01.webp",
+    "visual_spec": "Book-cropped image: 오이"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "사람이 바닥을 청소하고 있습니다.",
+      "사람이 나무에서 과일을 따고 있습니다.",
+      "사람이 기계를 수리하고 있습니다.",
+      "사람이 옷을 다리고 있습니다."
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-007/q02.webp",
+    "visual_spec": "Book-cropped scene: 과일을 따고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "약",
+      "장",
+      "문",
+      "실"
+    ],
+    "answer": 0,
+    "stem": "농___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "아침에 밭에 가서 물을 줬습니까가.",
+      "아침에 밭에 가서 물을 주어요 했습니다.",
+      "아침에 밭에 가서 물을 줬습니다.",
+      "아침에 밭에 가고 물을 줬어요가."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "고치다",
+      "닫다",
+      "거두다",
+      "빌리다"
+    ],
+    "answer": 2,
+    "stem": "수확하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "마르다",
+      "높다",
+      "길다",
+      "넓다"
+    ],
+    "answer": 0,
+    "stem": "젖다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "전화",
+      "흙",
+      "여권",
+      "우유"
+    ],
+    "answer": 1,
+    "stem": "삽"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "차를 세웁니다.",
+      "표를 삽니다.",
+      "창문을 닫습니다.",
+      "물을 줍니다."
+    ],
+    "answer": 3,
+    "stem": "씨를 뿌린 뒤"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "마스크와 장갑을 착용해야 합니다.",
+      "맨손으로 작업해야 합니다.",
+      "음식을 먹어야 합니다.",
+      "문을 열어 두어야 합니다."
+    ],
+    "answer": 0,
+    "stem": "농약 살포 중"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "오이",
+      "삽",
+      "오리",
+      "수건"
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-007/q10.webp",
+    "visual_spec": "Book-cropped image: 삽"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "탈",
+      "살",
+      "줄",
+      "쓸"
+    ],
+    "answer": 2,
+    "stem": "오늘 비가 많이 와서 밭에 물을 _______ 필요가 없습니다."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "씻습니다",
+      "읽습니다",
+      "앉습니다",
+      "옮깁니다"
+    ],
+    "answer": 3,
+    "stem": "수확한 채소는 상자에 담아서 창고로 _______."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약해야 합니다",
+      "확인해야 합니다",
+      "계산해야 합니다",
+      "신청해야 합니다"
+    ],
+    "answer": 1,
+    "stem": "농약을 뿌릴 때는 바람이 부는 방향을 꼭 _______."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "수확",
+      "출근",
+      "송금",
+      "세탁"
+    ],
+    "answer": 0,
+    "stem": "과일이 너무 익기 전에 _______ 하는 것이 좋습니다."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "팝니다",
+      "엽니다",
+      "탑니다",
+      "씻습니다"
+    ],
+    "answer": 3,
+    "stem": "일이 끝난 뒤에는 사용한 농기구를 깨끗이 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "배웠습니다",
+      "신청했습니다",
+      "덮었습니다",
+      "주문했습니다"
+    ],
+    "answer": 2,
+    "stem": "내일 새벽에 비가 온다고 해서 오늘 비닐을 _______."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "삽",
+      "저울",
+      "여권",
+      "수건"
+    ],
+    "answer": 0,
+    "stem": "흙을 파거나 옮길 때 사용하는 긴 손잡이의 농기구입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "낮에만 물을 줍니다.",
+      "채소에는 아침과 저녁에 물을 줍니다.",
+      "날씨가 추워서 채소가 마릅니다.",
+      "하루에 한 번만 물을 줍니다."
+    ],
+    "answer": 1,
+    "stem": "요즘 날씨가 더워서 채소가 빨리 마릅니다. 그래서 우리는 아침과 저녁에 한 번씩 물을 줍니다. 낮에는 햇빛이 강해서 물을 주지 않습니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "작업은 9월 25일입니다.",
+      "장갑은 필요하지 않습니다.",
+      "작업은 오전 6시 30분에 시작합니다.",
+      "작업은 오후에 시작합니다."
+    ],
+    "answer": 2,
+    "stem": "수확 작업 안내\n날짜: 9월 24일\n시작: 오전 6시 30분\n준비물: 장갑, 모자, 물"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "지수 씨는 비닐하우스에서 사과를 재배합니다.",
+      "창문은 절대 열지 않습니다.",
+      "병든 잎을 그대로 둡니다.",
+      "지수 씨는 아침마다 온도와 습도를 확인합니다."
+    ],
+    "answer": 3,
+    "stem": "지수 씨는 비닐하우스에서 오이를 재배합니다. 아침마다 온도와 습도를 확인하고, 필요하면 창문을 열어 환기합니다. 병든 잎이 보이면 바로 제거하고 다른 식물도 확인합니다."
+  }
+]

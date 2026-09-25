@@ -1,0 +1,552 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "의자",
+      "우산",
+      "우유",
+      "우체국"
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "우산"
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "회사",
+      "이사",
+      "의사",
+      "의자"
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "의자"
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q23-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q23-2.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q23-3.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "드라이버"
+    },
+    "visual_spec": "Four-option realistic tool photo question; correct option is a screwdriver."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q24-2.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q24-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q24-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "안전화"
+    },
+    "visual_spec": "Four-option realistic PPE photo question; correct option is safety shoes."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q25-2.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q25-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q25-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q25-3.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "손수레"
+    },
+    "visual_spec": "Four-option realistic transport equipment photo question; correct option is a hand cart."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q26-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q26-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q26-3.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q26-2.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "빗자루"
+    },
+    "visual_spec": "Four-option realistic cleaning object photo question; correct option is a broom."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q27-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q27-3.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q27-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q27-2.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "시계"
+    },
+    "visual_spec": "Four-option realistic object photo question; correct option is a wall clock."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "어디가 아파서 오셨어요?",
+      "optionsAudio": [
+        "세 시에 만나요.",
+        "목이 아프고 열이 나요.",
+        "버스로 왔어요.",
+        "회사에 있어요."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "병원 예약은 몇 시예요?",
+      "optionsAudio": [
+        "친구와 가요.",
+        "오후 두 시예요.",
+        "감기약이에요.",
+        "병원 앞이에요."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "약은 하루에 몇 번 먹어요?",
+      "optionsAudio": [
+        "식후에 가요.",
+        "약국에서 샀어요.",
+        "세 번 먹어요.",
+        "감기에 걸렸어요."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 일을 쉴 수 있을까요?",
+      "optionsAudio": [
+        "약이 비싸요.",
+        "병원은 저쪽이에요.",
+        "어제 쉬었어요.",
+        "네, 먼저 팀장에게 말하세요."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "건강보험증을 가지고 왔어요?",
+      "optionsAudio": [
+        "아홉 시에 엽니다.",
+        "네, 여기 있습니다.",
+        "병원이 큽니다.",
+        "버스를 탑니다."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "두 시에 만나요.",
+      "목이 아프고 기침이 나요.",
+      "버스로 왔어요.",
+      "병원이 커요."
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "내일 병원에 가려고 해요."
+        },
+        {
+          "speaker": "male",
+          "text": "어디가 많이 아파요?"
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q34-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q34-3.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q34-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오후 두 시 십오 분입니다."
+    },
+    "visual_spec": "Four-option EPS-style realistic/diagram visual. Correct option: clock showing 2:15 PM. Three plausible distractors."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q35-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "약은 하루에 세 번 먹습니다."
+    },
+    "visual_spec": "Four-option EPS-style realistic/diagram visual. Correct option: simple medicine schedule graphic showing three times a day. Three plausible distractors."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q36-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q36-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q36-3.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "병원은 은행 옆에 있습니다."
+    },
+    "visual_spec": "Four-option EPS-style realistic/diagram visual. Correct option: simple exam map with hospital next to bank. Three plausible distractors."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "audio_to_picture_options",
+    "prompt": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-002/q37-4.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-002/q37-2.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "여자는 비가 오는 날 밖에 나가려고 합니다. 무엇이 필요합니까?"
+    },
+    "visual_spec": "Four realistic photo options; correct option is a realistic umbrella."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 질문에 알맞은 것을 고르십시오.",
+    "options": [
+      "회사 회의",
+      "은행 송금",
+      "택배 요금",
+      "병원 예약 변경"
+    ],
+    "answer": 3,
+    "stem": "두 사람은 무엇에 대해 이야기하고 있습니까?",
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "내일 병원 예약을 바꾸고 싶어요."
+        },
+        {
+          "speaker": "female",
+          "text": "그럼 병원에 전화해서 시간을 변경하세요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 질문에 알맞은 것을 고르십시오.",
+    "options": [
+      "오전 3시 30분",
+      "오후 2시",
+      "오후 3시 30분",
+      "오후 4시"
+    ],
+    "answer": 2,
+    "stem": "예약 시간은 언제입니까?",
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "예약 시간이 언제예요?"
+        },
+        {
+          "speaker": "male",
+          "text": "오후 세 시 반이에요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 질문에 알맞은 것을 고르십시오.",
+    "options": [
+      "남자는 오늘 병원을 닫습니다.",
+      "여자는 약을 먹지 않습니다.",
+      "여자는 건강합니다.",
+      "열이 계속 나면 다시 병원에 갑니다."
+    ],
+    "answer": 3,
+    "stem": "들은 내용과 같은 것을 고르십시오.",
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "열이 계속 나면 내일 다시 병원에 오세요."
+        },
+        {
+          "speaker": "female",
+          "text": "네, 약도 시간에 맞춰 먹겠습니다."
+        }
+      ]
+    }
+  }
+]

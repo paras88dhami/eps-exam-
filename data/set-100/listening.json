@@ -1,0 +1,564 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "오늘 저녁에는 친구와 영화를 보러 갈 거예요.",
+      "주말에는 방 청소를 하고 빨래를 하려고 합니다.",
+      "내일 아침에는 공원에서 운동할 예정입니다.",
+      "오늘 점심 메뉴는 된장찌개와 생선구이입니다."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 점심 메뉴는 된장찌개와 생선구이입니다."
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "주말에는 방 청소를 하고 빨래를 하려고 합니다.",
+      "내일 아침에는 공원에서 운동할 예정입니다.",
+      "불량품은 정상 제품과 섞지 말고 따로 보관하세요.",
+      "휴대전화를 잃어버려서 조금 걱정됩니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "안전 교육과 사무실 업무 상황입니다. 불량품은 정상 제품과 섞지 말고 따로 보관하세요."
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q23-4.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q23-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q23-3.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "도로 롤러를 볼 수 있습니다.와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q24-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q24-4.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q24-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "무게 측정와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q25-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q25-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q25-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q25-4.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "사진에서 저온 창고를 확인할 수 있습니다.와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q26-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q26-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q26-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q26-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "화면에는 기계 사고가 보 장면입니다."
+    }
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q27-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q27-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q27-4.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q27-3.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "이 장면은 상자 적재와 관계가 있습니다.와 관계있는 장면입니다."
+    }
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "안전 교육과 사무실 업무에서 묻습니다. 비닐하우스 온도는 몇 도예요?",
+      "optionsAudio": [
+        "부엌이 넓어요.",
+        "세탁기가 고장 났어요.",
+        "지금은 스물다섯 도예요.",
+        "오른손으로 잡으세요."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "안전 교육과 사무실 업무에서 묻습니다. 오늘 통근버스는 몇 시에 출발해요?",
+      "optionsAudio": [
+        "일곱 시 십 분에 출발해요.",
+        "창구가 닫혔습니다.",
+        "표지를 붙이세요.",
+        "약을 먹었습니다."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "안전 교육과 사무실 업무에서 묻습니다. 검사 결과는 언제 나와요?",
+      "optionsAudio": [
+        "왼쪽으로 돌리세요.",
+        "내일 오후에 나옵니다.",
+        "장갑을 세 켤레 샀어요.",
+        "열두 시에 문을 닫아요."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 점심 메뉴가 뭐예요?",
+      "optionsAudio": [
+        "된장찌개예요.",
+        "부품을 교체했습니다.",
+        "회의는 내일입니다.",
+        "오전 아홉 시입니다."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "택배 상자는 몇 개 준비하면 돼요?",
+      "optionsAudio": [
+        "병원은 저쪽입니다.",
+        "생선이 싱싱합니다.",
+        "큰 상자 두 개면 돼요.",
+        "휴무일은 토요일이에요."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "그럼 조금 일찍 회의실로 갈게요.",
+      "아니요, 영수증은 없습니다.",
+      "좋아요, 저녁은 김치찌개예요.",
+      "네, 왼쪽으로 가세요."
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "오늘 안전 교육은 몇 시예요?"
+        },
+        {
+          "speaker": "female",
+          "text": "오전 아홉 시 반이에요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q34-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q34-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q34-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "작업자가 보호안경을 쓰고 용접하고 있습니다."
+    }
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q35-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "접시에 김밥과 샐러드가 함께 놓여 있습니다."
+    }
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q36-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q36-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q36-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "버니어 캘리퍼스로 길이를 재고 있습니다."
+    }
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-100/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q37-2.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-100/q37-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오전 열 시에는 안전교육, 오후 두 시에는 품질회의가 있습니다."
+    }
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 두 사람이 무엇에 대해 이야기하는지 고르십시오.",
+    "options": [
+      "두 사람은 영화 예매에 대해 이야기하고 있습니다.",
+      "두 사람은 여행 계획에 대해 이야기하고 있습니다.",
+      "두 사람은 안전 교육 및 회의실 일정에 대해 이야기하고 있습니다.",
+      "두 사람은 취미 활동에 대해 이야기하고 있습니다."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "오전 아홉 시 안전회의 끝나고 바로 교육이 있나요?"
+        },
+        {
+          "speaker": "female",
+          "text": "아니요, 열한 시에 거래처 미팅이 먼저 있습니다."
+        },
+        {
+          "speaker": "male",
+          "text": "그럼 교육 준비 회의는 오후 세 시군요."
+        },
+        {
+          "speaker": "female",
+          "text": "네, 회의실 사용 일정표에 그렇게 적혀 있습니다."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "두 사람은 주말 여행 일정을 정하고 있습니다.",
+      "대화에서 물건 가격 이야기는 나오지 않습니다.",
+      "두 사람은 서로 처음 만난 사람들입니다.",
+      "교육 준비 회의는 오후 세 시입니다."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "오전 아홉 시 안전회의 끝나고 바로 교육이 있나요?"
+        },
+        {
+          "speaker": "female",
+          "text": "아니요, 열한 시에 거래처 미팅이 먼저 있습니다."
+        },
+        {
+          "speaker": "male",
+          "text": "그럼 교육 준비 회의는 오후 세 시군요."
+        },
+        {
+          "speaker": "female",
+          "text": "네, 회의실 사용 일정표에 그렇게 적혀 있습니다."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue",
+    "prompt": "다음을 듣고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "두 사람은 오늘 영화를 보기로 했습니다.",
+      "두 사람은 서로의 고향을 묻고 있습니다.",
+      "두 사람은 휴가 계획만 이야기하고 있습니다.",
+      "여자는 일정표를 보고 회의 순서를 확인합니다."
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "오전 아홉 시 안전회의 끝나고 바로 교육이 있나요?"
+        },
+        {
+          "speaker": "female",
+          "text": "아니요, 열한 시에 거래처 미팅이 먼저 있습니다."
+        },
+        {
+          "speaker": "male",
+          "text": "그럼 교육 준비 회의는 오후 세 시군요."
+        },
+        {
+          "speaker": "female",
+          "text": "네, 회의실 사용 일정표에 그렇게 적혀 있습니다."
+        }
+      ]
+    }
+  }
+]

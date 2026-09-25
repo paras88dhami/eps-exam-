@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "드라이버",
+      "몽키스패너",
+      "망치",
+      "펜치"
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-013/q01.webp",
+    "visual_spec": "Book-cropped visual: 몽키스패너"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "철근 작업을 하고 있습니다",
+      "벽을 칠하고 있습니다",
+      "물건을 포장하고 있습니다",
+      "채소를 수확하고 있습니다"
+    ],
+    "answer": 0,
+    "media": "assets/questions/set-013/q02.webp",
+    "visual_spec": "Book-cropped visual: 철근 작업을 하고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "정",
+      "전",
+      "천",
+      "선"
+    ],
+    "answer": 1,
+    "stem": "안___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "높은 곳에서 일할 때 안전대를 착용합니까 어제.",
+      "높은 곳에서 일할 때 안전대를 착용하고 싶습니다요.",
+      "높은 곳에서 일할 때 안전대를 착용합니다.",
+      "높은 곳에서 일할 때 안전대를 착용해요가."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "보호하다",
+      "버리다",
+      "끓이다",
+      "빌리다"
+    ],
+    "answer": 0,
+    "stem": "지키다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "높다",
+      "낮다",
+      "작다",
+      "가깝다"
+    ],
+    "answer": 1,
+    "stem": "높다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "눈",
+      "발",
+      "배",
+      "허리"
+    ],
+    "answer": 0,
+    "stem": "보안경"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "점심 메뉴를 고릅니다.",
+      "전원이 꺼졌는지 확인합니다.",
+      "우편물을 보냅니다.",
+      "약을 삽니다."
+    ],
+    "answer": 1,
+    "stem": "기계를 점검하기 전"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "현금을 준비해야 합니다.",
+      "창문을 활짝 열어야 합니다.",
+      "버스 카드를 충전해야 합니다.",
+      "추락 방지 장비를 사용해야 합니다."
+    ],
+    "answer": 3,
+    "stem": "고소 작업 시 안전대 착용"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "손수레",
+      "톱",
+      "저울",
+      "사다리"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-013/q10.webp",
+    "visual_spec": "Book-cropped visual: 사다리"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약했습니다",
+      "멈췄습니다",
+      "포장했습니다",
+      "요리했습니다"
+    ],
+    "answer": 1,
+    "stem": "기계에서 이상한 소리가 나서 바로 작업을 _______."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약하세요",
+      "송금하세요",
+      "착용하세요",
+      "주문하세요"
+    ],
+    "answer": 2,
+    "stem": "용접 작업을 할 때는 보안면과 장갑을 _______."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "치우십시오",
+      "먹으십시오",
+      "빌리십시오",
+      "타십시오"
+    ],
+    "answer": 0,
+    "stem": "비상 통로에 놓인 자재를 즉시 _______."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "보다",
+      "에게",
+      "까지",
+      "그래서"
+    ],
+    "answer": 3,
+    "stem": "바닥이 젖어 있었습니다. _______ 미끄럼 주의 표지판을 세웠습니다."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "확인합니다",
+      "삶습니다",
+      "보냅니다",
+      "심습니다"
+    ],
+    "answer": 0,
+    "stem": "작업 전에 공구가 손상되지 않았는지 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "식사하지 마십시오",
+      "송금하지 마십시오",
+      "운동하지 마십시오",
+      "들어가지 마십시오"
+    ],
+    "answer": 3,
+    "stem": "관계자 외에는 공사 현장 안으로 _______."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition",
+    "prompt": "다음 설명에 알맞은 단어를 고르십시오.",
+    "options": [
+      "영수증",
+      "통장",
+      "안전대",
+      "우산"
+    ],
+    "answer": 2,
+    "stem": "높은 곳에서 작업할 때 몸을 고정하여 추락을 막는 보호 장비입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "손상된 공구도 계속 사용합니다.",
+      "공구가 손상되면 사용하지 말고 보고해야 합니다.",
+      "작업 후에는 공구를 밖에 둡니다.",
+      "공구 상태는 확인할 필요가 없습니다."
+    ],
+    "answer": 1,
+    "passage": "작업을 시작하기 전에 공구의 손잡이와 전선 상태를 확인하십시오. 손상된 공구는 사용하지 말고 관리자에게 보고해야 합니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_reading",
+    "prompt": "다음 안내를 읽고 맞는 것을 고르십시오.",
+    "options": [
+      "안전모는 필요하지 않습니다.",
+      "공사장에서는 슬리퍼를 신습니다.",
+      "보호구는 퇴근 후에만 착용합니다.",
+      "안전모와 안전화를 착용해야 합니다."
+    ],
+    "answer": 3,
+    "passage": "[공사 현장 출입 수칙] 현장에 들어가기 전에 안전모와 안전화를 착용하십시오. 지정된 통로를 이용하고 위험 구역에는 들어가지 마십시오."
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "무거운 자재는 혼자 빨리 옮깁니다.",
+      "자재는 통로에 놓아도 됩니다.",
+      "무거운 자재는 여러 사람이 함께 옮기는 것이 안전합니다.",
+      "손을 보호할 필요가 없습니다."
+    ],
+    "answer": 2,
+    "passage": "무거운 자재를 옮길 때는 혼자 무리하지 말고 동료와 함께 작업해야 합니다. 장갑을 착용하고 이동 통로에 장애물이 없는지도 먼저 확인하는 것이 좋습니다."
+  }
+]

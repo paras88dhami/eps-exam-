@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "마스크",
+      "귀마개",
+      "보안경",
+      "안전대"
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-005/q01.webp",
+    "visual_spec": "A realistic pair of industrial hearing-protection earmuffs isolated on a plain light background."
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "여자가 옷을 세탁하고 있습니다.",
+      "여자가 제품을 포장하고 있습니다.",
+      "여자가 컴퓨터를 끄고 있습니다.",
+      "여자가 책을 읽고 있습니다."
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-005/q02.webp",
+    "visual_spec": "A realistic female factory worker packing a finished product into a cardboard box at a clean packing table."
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "여",
+      "야",
+      "유",
+      "요"
+    ],
+    "answer": 2,
+    "stem": "아침마다 우___를 마십니다."
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 밑줄 친 부분이 틀린 것을 고르십시오.",
+    "options": [
+      "내일 시장에 갔습니다.",
+      "한국어를 공부합니다.",
+      "공장에서 일합니다.",
+      "친구에게 전화했습니다."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "신청하다",
+      "수리하다",
+      "휴식하다",
+      "출근하다"
+    ],
+    "answer": 2,
+    "stem": "쉬다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "이르다",
+      "빠르다",
+      "가깝다",
+      "짧다"
+    ],
+    "answer": 0,
+    "stem": "늦다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "계산대",
+      "신청서",
+      "운전면허",
+      "용접기"
+    ],
+    "answer": 1,
+    "stem": "휴가"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "진료 받기",
+      "승인 받기",
+      "기계 수리",
+      "택배 보내기"
+    ],
+    "answer": 1,
+    "stem": "휴가 날짜 확인 → 신청서 작성 → ___ → 휴가 사용"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "창문을 닫아야 합니다.",
+      "휴대전화를 꺼야 합니다.",
+      "안전모를 써야 합니다.",
+      "신발을 벗어야 합니다."
+    ],
+    "answer": 2,
+    "stem": "안전모 착용"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "graph",
+    "prompt": "다음 그래프의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "8시과(와) 9시은(는) 같습니다.",
+      "7시은(는) 10%입니다.",
+      "7시이(가) 가장 많습니다.",
+      "10시이(가) 가장 많습니다."
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-005/q10.webp",
+    "visual_spec": {
+      "kind": "bar_chart",
+      "title": "출근 시간",
+      "data": [
+        [
+          "7시",
+          15
+        ],
+        [
+          "8시",
+          45
+        ],
+        [
+          "9시",
+          30
+        ],
+        [
+          "10시",
+          10
+        ]
+      ],
+      "style": "clean monochrome EPS-TOPIK exam chart"
+    }
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "약속",
+      "여행",
+      "확인",
+      "주문"
+    ],
+    "answer": 2,
+    "stem": "작업을 시작하기 전에 휴가 일정가 안전한지 먼저 ___해야 합니다."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "하지만",
+      "해서",
+      "보다",
+      "마다"
+    ],
+    "answer": 1,
+    "stem": "어제 일을 ___ 오늘은 조금 피곤합니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "타",
+      "놓아",
+      "열어",
+      "입어"
+    ],
+    "answer": 1,
+    "stem": "개인 물건를 사용한 후에는 제자리에 ___ 주세요."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "끄세요",
+      "가세요",
+      "만드세요",
+      "자르세요"
+    ],
+    "answer": 1,
+    "stem": "몸이 아프면 무리하지 말고 병원에 ___."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "갈아야",
+      "지켜야",
+      "팔아야",
+      "빌려야"
+    ],
+    "answer": 1,
+    "stem": "회사에서는 안전 규칙을 꼭 ___ 합니다."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "드세요",
+      "입으세요",
+      "끄세요",
+      "타세요"
+    ],
+    "answer": 2,
+    "stem": "퇴근하기 전에 전등과 휴가 일정를 모두 ___."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "회의",
+      "휴가",
+      "야근",
+      "출근"
+    ],
+    "answer": 1,
+    "stem": "회사에 일정 기간 일을 쉬겠다고 허락을 받는 것을 말합니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "준호 씨는 휴가를 신청하지 않았습니다.",
+      "준호 씨는 휴가 승인을 받았습니다.",
+      "준호 씨는 오늘 고향에 갔습니다.",
+      "준호 씨는 표를 취소했습니다."
+    ],
+    "answer": 1,
+    "stem": "준호 씨는 다음 달에 고향에 가려고 휴가를 신청했습니다. 팀장에게 승인을 받은 뒤 비행기 표를 샀습니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "휴가 후에 신청합니다.",
+      "휴가는 사용 7일 전에 신청합니다.",
+      "회계팀에 제출합니다.",
+      "승인 없이 사용할 수 있습니다."
+    ],
+    "answer": 1,
+    "stem": "휴가 신청 안내\n신청: 사용 7일 전\n제출: 인사팀\n승인 후 사용 가능"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "휴가는 개인적인 사정으로 사용할 수 없습니다.",
+      "휴가는 보통 미리 신청합니다.",
+      "바쁜 시기에는 일정을 조정할 필요가 없습니다.",
+      "승인 없이 언제든지 쉽니다."
+    ],
+    "answer": 1,
+    "stem": "근로자가 개인적인 사정으로 일을 쉬려면 회사의 휴가 절차를 따라야 합니다. 보통 미리 휴가를 신청하고 관리자의 승인을 받은 후 사용할 수 있습니다. 바쁜 시기에는 동료와 일정을 조정하는 것도 중요합니다."
+  }
+]

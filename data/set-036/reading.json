@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "병원용 예약",
+      "장갑",
+      "손수레",
+      "망치"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-036/q01.webp",
+    "visual_spec": "Book-cropped visual: 손수레"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "병원에서 예약을 확인하고 있습니다",
+      "장갑",
+      "망치",
+      "물건을 포장하고 있습니다"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-036/q02.webp",
+    "visual_spec": "Book-cropped visual: 물건을 포장하고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "stem": "병원에서 자주 쓰는 말입니다. 기___",
+    "options": [
+      "간",
+      "건",
+      "공",
+      "계"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "병원에서는 작업 규칙을 잘 지킵니다가.",
+      "병원에서는 작업 규칙을 지켜요를.",
+      "어제 병원에서는 작업 규칙을 지킵니다 내일.",
+      "병원에서는 작업 규칙을 잘 지켜야 합니다."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "stem": "병원 상황 1: 안전하다",
+    "options": [
+      "복잡하다",
+      "늦다",
+      "위험하지 않다",
+      "무겁다"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "stem": "병원 상황 2: 고장 나다",
+    "options": [
+      "도착하다",
+      "출발하다",
+      "망가지다",
+      "정리하다"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "stem": "병원 상황 3: 깨끗하다",
+    "options": [
+      "청결하다",
+      "위험하다",
+      "시끄럽다",
+      "좁다"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "stem": "병원 상황 4: 빨리",
+    "options": [
+      "천천히",
+      "조용히",
+      "신속하게",
+      "가끔"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "stem": "병원 상황 5: 확인하다",
+    "options": [
+      "살펴보다",
+      "잊다",
+      "닫다",
+      "버리다"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "stem": "병원 상황 6: 안전하다",
+    "options": [
+      "복잡하다",
+      "위험하지 않다",
+      "늦다",
+      "무겁다"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 상황에 알맞은 것을 고르십시오.",
+    "stem": "병원에서 예약의 수량을 확인한 후 기록합니다.",
+    "options": [
+      "휴가 신청",
+      "재고 확인",
+      "병원 접수",
+      "식사 주문"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "stem": "병원 안내 1: 예약이 부족해서 담당자에게 추가로 _______.",
+    "options": [
+      "취소했습니다",
+      "퇴근했습니다",
+      "요청했습니다",
+      "세탁했습니다"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "stem": "병원 안내 2: 병원에 들어가기 전에 보호 장비를 _______.",
+    "options": [
+      "반납해야 합니다",
+      "착용해야 합니다",
+      "예약해야 합니다",
+      "송금해야 합니다"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "stem": "병원 안내 3: 약 작업이 끝난 _______ 주변을 정리했습니다.",
+    "options": [
+      "후에",
+      "보다",
+      "마다",
+      "처럼"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "stem": "병원 안내 4: 기계에 이상이 있으면 바로 전원을 _______.",
+    "options": [
+      "꺼야 합니다",
+      "보내야 합니다",
+      "먹어야 합니다",
+      "예약해야 합니다"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "stem": "병원 안내 5: 작업 방법을 모르면 관리자에게 _______.",
+    "options": [
+      "갈아타세요",
+      "환전하세요",
+      "물어보세요",
+      "주문하세요"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition",
+    "prompt": "다음 설명에 알맞은 단어를 고르십시오.",
+    "stem": "병원와 관련된 설명입니다. 작업 전에 위험 요소와 주의 사항을 확인하는 활동입니다.",
+    "options": [
+      "환전",
+      "진료",
+      "배송",
+      "안전 점검"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "passage": "병원에서는 진료 관리가 중요합니다. 작업을 시작하기 전에 필요한 장비를 확인하고, 문제가 있으면 담당자에게 바로 알려야 합니다.",
+    "options": [
+      "장비 확인은 필요 없습니다.",
+      "문제가 있으면 담당자에게 알려야 합니다.",
+      "문제가 있어도 계속 작업합니다.",
+      "작업 후에만 장비를 확인합니다."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_reading",
+    "prompt": "다음 안내를 읽고 맞는 것을 고르십시오.",
+    "passage": "[작업 안내]\n1. 작업 전 예약 상태 확인\n2. 보호 장비 착용\n3. 이상 발견 시 작업 중지\n4. 담당자에게 보고",
+    "options": [
+      "보호 장비는 필요 없습니다.",
+      "이상을 발견하면 작업을 중지합니다.",
+      "이상은 보고하지 않습니다.",
+      "작업 전에 상태를 확인하지 않습니다."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "passage": "병원에서 안전하게 일하려면 정해진 절차를 지켜야 합니다. 작업 전에는 예약과 장비의 상태를 확인합니다. 작업 중 문제가 생기면 혼자 해결하려고 하지 말고 담당자에게 알립니다. 작업이 끝난 뒤에는 사용한 도구를 제자리에 정리합니다.",
+    "options": [
+      "문제는 항상 혼자 해결해야 합니다.",
+      "작업 전 장비 확인은 하지 않습니다.",
+      "도구는 아무 곳에 두어도 됩니다.",
+      "작업이 끝나면 도구를 정리해야 합니다."
+    ],
+    "answer": 3
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "운동화",
+      "슬리퍼",
+      "장화",
+      "안전화"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-004/q01.webp",
+    "visual_spec": "A realistic pair of black industrial safety shoes with reinforced toes on a plain light background."
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "작업자가 손을 씻고 있습니다.",
+      "작업자가 문을 닫고 있습니다.",
+      "작업자가 의자에 앉아 있습니다.",
+      "작업자가 사다리를 오르고 있습니다."
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-004/q02.webp",
+    "visual_spec": "A realistic construction worker safely climbing a ladder, wearing helmet and work clothes, uncluttered worksite."
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "이",
+      "위",
+      "외",
+      "웨"
+    ],
+    "answer": 1,
+    "stem": "종이를 자를 때 가___를 사용합니다."
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 밑줄 친 부분이 맞는 것을 고르십시오.",
+    "options": [
+      "내일 한국에 왔습니다.",
+      "기계가 고장 나서 수리했습니다.",
+      "어제 일을 합니다.",
+      "지금 잠을 잤어요."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "고장 나다",
+      "요청하다",
+      "취소하다",
+      "버리다"
+    ],
+    "answer": 1,
+    "stem": "신청하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "멀다",
+      "간단하다",
+      "비싸다",
+      "빠르다"
+    ],
+    "answer": 1,
+    "stem": "복잡하다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "용접봉",
+      "소포",
+      "작업복",
+      "처방전"
+    ],
+    "answer": 1,
+    "stem": "택배"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "퇴근하기",
+      "요금 내기",
+      "약 먹기",
+      "기계 끄기"
+    ],
+    "answer": 1,
+    "stem": "물건 포장 → 주소 쓰기 → ___ → 발송"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "물에 넣어야 합니다.",
+      "조심해서 운반해야 합니다.",
+      "밖에 두어야 합니다.",
+      "빨리 던져야 합니다."
+    ],
+    "answer": 1,
+    "stem": "깨지기 쉬움"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "graph",
+    "prompt": "다음 그래프의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "4시간 이상이(가) 가장 많습니다.",
+      "1시간이(가) 가장 많습니다.",
+      "1시간은(는) 10%입니다.",
+      "2시간과(와) 3시간은(는) 같습니다."
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-004/q10.webp",
+    "visual_spec": {
+      "kind": "bar_chart",
+      "title": "한국어 공부 시간",
+      "data": [
+        [
+          "1시간",
+          20
+        ],
+        [
+          "2시간",
+          40
+        ],
+        [
+          "3시간",
+          25
+        ],
+        [
+          "4시간 이상",
+          15
+        ]
+      ],
+      "style": "clean monochrome EPS-TOPIK exam chart"
+    }
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "주문",
+      "약속",
+      "확인",
+      "여행"
+    ],
+    "answer": 2,
+    "stem": "작업을 시작하기 전에 주소가 안전한지 먼저 ___해야 합니다."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "보다",
+      "하지만",
+      "해서",
+      "마다"
+    ],
+    "answer": 2,
+    "stem": "어제 포장 작업을 ___ 오늘은 조금 피곤합니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "입어",
+      "놓아",
+      "열어",
+      "타"
+    ],
+    "answer": 1,
+    "stem": "포장 도구를 사용한 후에는 제자리에 ___ 주세요."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "끄세요",
+      "자르세요",
+      "만드세요",
+      "가세요"
+    ],
+    "answer": 3,
+    "stem": "몸이 아프면 무리하지 말고 병원에 ___."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "빌려야",
+      "팔아야",
+      "지켜야",
+      "갈아야"
+    ],
+    "answer": 2,
+    "stem": "우체국에서는 안전 규칙을 꼭 ___ 합니다."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "입으세요",
+      "드세요",
+      "끄세요",
+      "타세요"
+    ],
+    "answer": 2,
+    "stem": "퇴근하기 전에 전등과 주소를 모두 ___."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "보험",
+      "택배",
+      "진료",
+      "휴가"
+    ],
+    "answer": 1,
+    "stem": "물건을 다른 곳으로 보내는 서비스를 말합니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "소라 씨는 병원에 갔습니다.",
+      "소라 씨는 상자를 버렸습니다.",
+      "소라 씨는 소포를 보냈습니다.",
+      "소라 씨는 주소를 쓰지 않았습니다."
+    ],
+    "answer": 2,
+    "stem": "소라 씨는 고향에 선물을 보내려고 우체국에 갔습니다. 상자를 포장하고 주소를 쓴 뒤 요금을 냈습니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "일요일에도 접수합니다.",
+      "평일에는 오후 1시에 끝납니다.",
+      "토요일에는 오후 6시까지 접수합니다.",
+      "토요일에는 오후 1시까지 접수합니다."
+    ],
+    "answer": 3,
+    "stem": "택배 접수 안내\n평일 09:00~18:00\n토요일 09:00~13:00\n일요일 휴무"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "주소는 적지 않아도 됩니다.",
+      "깨지기 쉬운 물건은 직원에게 알려 주는 것이 좋습니다.",
+      "연락처는 쓰면 안 됩니다.",
+      "물건은 포장하지 않고 보냅니다."
+    ],
+    "answer": 1,
+    "stem": "택배를 보낼 때는 물건이 파손되지 않도록 잘 포장해야 합니다. 상자 겉면에는 받는 사람의 주소와 연락처를 정확히 적습니다. 깨지기 쉬운 물건은 직원에게 미리 알려 주는 것이 좋습니다."
+  }
+]

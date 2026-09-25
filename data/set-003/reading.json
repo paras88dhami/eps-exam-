@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "톱",
+      "펜치",
+      "전동 드릴",
+      "삽"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-003/q01.webp",
+    "visual_spec": "A realistic cordless electric drill isolated on a plain light background, exam reference photograph."
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "남자가 나무를 자르고 있습니다.",
+      "남자가 벽을 칠하고 있습니다.",
+      "남자가 기계에 기름을 넣고 있습니다.",
+      "남자가 물건을 포장하고 있습니다."
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-003/q02.webp",
+    "visual_spec": "A realistic factory worker carefully adding lubricant oil to an industrial machine, clean training-photo composition."
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "렬",
+      "률",
+      "릴",
+      "룰"
+    ],
+    "answer": 2,
+    "stem": "나무에 구멍을 뚫을 때 전동 드___을 사용합니다."
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 알맞은 문장을 고르십시오.",
+    "options": [
+      "지금 회사에 갔습니다 내일.",
+      "어제 일을 할 거예요.",
+      "비가 와서 우산을 썼어요.",
+      "배가 고프지만 밥을 먹었어요 그래서."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "잃다",
+      "나누다",
+      "저장하다",
+      "꺼내다"
+    ],
+    "answer": 2,
+    "stem": "보관하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "깊다",
+      "가볍다",
+      "넓다",
+      "두껍다"
+    ],
+    "answer": 1,
+    "stem": "무겁다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "용접",
+      "송금",
+      "조립",
+      "수확"
+    ],
+    "answer": 1,
+    "stem": "은행"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "운반",
+      "세탁",
+      "창구 업무",
+      "퇴근"
+    ],
+    "answer": 2,
+    "stem": "번호표 뽑기 → 대기 → ___ → 영수증 받기"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "전화를 하면 안 됩니다.",
+      "사진을 찍으면 안 됩니다.",
+      "음식을 먹으면 안 됩니다.",
+      "담배를 피우면 안 됩니다."
+    ],
+    "answer": 3,
+    "stem": "금연"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "graph",
+    "prompt": "다음 그래프의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "국수이(가) 가장 많습니다.",
+      "비빔밥이(가) 가장 많습니다.",
+      "비빔밥은(는) 10%입니다.",
+      "불고기과(와) 김치찌개은(는) 같습니다."
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-003/q10.webp",
+    "visual_spec": {
+      "kind": "bar_chart",
+      "title": "회사 식당에서 좋아하는 메뉴",
+      "data": [
+        [
+          "비빔밥",
+          35
+        ],
+        [
+          "불고기",
+          30
+        ],
+        [
+          "김치찌개",
+          20
+        ],
+        [
+          "국수",
+          15
+        ]
+      ],
+      "style": "clean monochrome EPS-TOPIK exam chart"
+    }
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "약속",
+      "확인",
+      "주문",
+      "여행"
+    ],
+    "answer": 1,
+    "stem": "작업을 시작하기 전에 계좌가 안전한지 먼저 ___해야 합니다."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "보다",
+      "해서",
+      "마다",
+      "하지만"
+    ],
+    "answer": 1,
+    "stem": "어제 공부을 ___ 오늘은 조금 피곤합니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "열어",
+      "놓아",
+      "입어",
+      "타"
+    ],
+    "answer": 1,
+    "stem": "서류를 사용한 후에는 제자리에 ___ 주세요."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "자르세요",
+      "가세요",
+      "끄세요",
+      "만드세요"
+    ],
+    "answer": 1,
+    "stem": "몸이 아프면 무리하지 말고 병원에 ___."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "팔아야",
+      "빌려야",
+      "갈아야",
+      "지켜야"
+    ],
+    "answer": 3,
+    "stem": "은행에서는 안전 규칙을 꼭 ___ 합니다."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "타세요",
+      "끄세요",
+      "드세요",
+      "입으세요"
+    ],
+    "answer": 1,
+    "stem": "퇴근하기 전에 전등과 계좌를 모두 ___."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "환불",
+      "송금",
+      "청소",
+      "수리"
+    ],
+    "answer": 1,
+    "stem": "다른 사람의 계좌로 돈을 보내는 것을 말합니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "라힘 씨는 병원에 갔습니다.",
+      "라힘 씨는 은행에서 송금했습니다.",
+      "라힘 씨는 돈을 찾지 못했습니다.",
+      "라힘 씨는 택배를 보냈습니다."
+    ],
+    "answer": 1,
+    "stem": "라힘 씨는 가족에게 생활비를 보내려고 은행에 갔습니다. 창구에서 송금한 뒤 영수증을 확인했습니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "토요일 오전에 엽니다.",
+      "은행은 평일에 엽니다.",
+      "은행은 오후 6시에 닫습니다.",
+      "은행은 일요일에도 엽니다."
+    ],
+    "answer": 1,
+    "stem": "은행 업무 시간\n평일 09:00~16:00\n토요일·일요일 휴무"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "잘못 송금해도 바로 해결됩니다.",
+      "송금 전에 계좌 정보를 확인해야 합니다.",
+      "월급은 은행 계좌로 받을 수 없습니다.",
+      "받는 사람의 이름은 필요하지 않습니다."
+    ],
+    "answer": 1,
+    "stem": "외국인 근로자는 은행 계좌를 이용해 월급을 받고 고향에 돈을 보낼 수 있습니다. 송금할 때는 받는 사람의 이름과 계좌 정보를 정확히 확인해야 합니다. 잘못된 정보로 송금하면 돈을 돌려받는 데 시간이 걸릴 수 있습니다."
+  }
+]

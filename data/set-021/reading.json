@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림에 알맞은 말이나 표현을 고르십시오.",
+    "options": [
+      "지게차",
+      "사다리",
+      "굴착기",
+      "손수레"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-021/q01.webp",
+    "visual_spec": "Book-cropped visual: 손수레"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "기계를 수리하고 있습니다입니다",
+      "바닥을 청소하고 있습니다",
+      "물건을 포장하고 있습니다",
+      "벽에 페인트를 칠하고 있습니다"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-021/q02.webp",
+    "visual_spec": "Book-cropped visual: 물건을 포장하고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "고",
+      "구",
+      "게",
+      "기"
+    ],
+    "answer": 0,
+    "stem": "창___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "포장 상자를 선반 위에 올려 놓았어요가.",
+      "포장 상자를 선반 위에 올려 놓습니까 어제.",
+      "포장 상자를 선반 위에 올려 놓았습니다.",
+      "포장 상자를 선반 위에 올려 놓고 싶습니다요."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "운반하다",
+      "확인하다입니다",
+      "포장하다",
+      "계산하다"
+    ],
+    "answer": 0,
+    "stem": "옮기다 관련 표현"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "가볍다",
+      "무겁다",
+      "넓다",
+      "빠르다"
+    ],
+    "answer": 0,
+    "stem": "무겁다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "병원",
+      "포장 상자",
+      "우산",
+      "약"
+    ],
+    "answer": 1,
+    "stem": "포장"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "퇴근합니다라고 합니다.",
+      "식당을 예약합니다.",
+      "수량을 확인합니다.",
+      "약을 먹습니다."
+    ],
+    "answer": 2,
+    "stem": "물건을 출고하기 전 관련 표현"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "휴대전화를 충전해야 합니다.",
+      "은행에서 번호표를 뽑아야 합니다.",
+      "식사 후 이를 닦아야 합니다.",
+      "지정된 통로로 이동해야 합니다."
+    ],
+    "answer": 3,
+    "stem": "창고 내 보행 통로 이용"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "트랙터",
+      "버스",
+      "화물차",
+      "택시"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-021/q10.webp",
+    "visual_spec": "Book-cropped visual: 화물차에서 짐을 내리고 있습니다"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약했습니다",
+      "확인했습니다",
+      "요리했습니다",
+      "운동했습니다"
+    ],
+    "answer": 1,
+    "stem": "출고하기 전에 주소와 수량을 다시 _______."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "먹어야 합니다입니다",
+      "빌려야 합니다",
+      "붙여야 합니다",
+      "씻어야 합니다"
+    ],
+    "answer": 2,
+    "stem": "오늘 깨지기 쉬운 물건에는 주의 스티커를 _______."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "정리해 주세요",
+      "전화해 주세요",
+      "요리해 주세요",
+      "진료해 주세요"
+    ],
+    "answer": 0,
+    "stem": "통로에 포장 상자가 놓여 있습니다. 안전하게 _______."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "부터",
+      "때문에",
+      "에게",
+      "처럼"
+    ],
+    "answer": 1,
+    "stem": "눈이 많이 왔기 _______ 출고이 늦어졌습니다."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "끓입니다",
+      "깎습니다",
+      "심습니다",
+      "싣습니다"
+    ],
+    "answer": 3,
+    "stem": "출고할 물건을 확인한 후 화물차에 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "놓지 마세요",
+      "입지 마세요",
+      "먹지 마세요",
+      "읽지 마세요"
+    ],
+    "answer": 0,
+    "stem": "비상구 앞에는 물건을 _______."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition",
+    "prompt": "다음 설명에 알맞은 단어를 고르십시오.",
+    "options": [
+      "출근",
+      "진료",
+      "휴가",
+      "재고"
+    ],
+    "answer": 3,
+    "stem": "창고나 가게에 현재 남아 있는 상품이나 물건의 수량입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "오전 주문은 다음 날 보냅니다.",
+      "모든 주문은 당일 출고합니다.",
+      "오전 주문은 이틀 뒤에 보냅니다.",
+      "출고은 주말에만 합니다."
+    ],
+    "answer": 0,
+    "passage": "우리 회사는 오전 11시까지 들어온 주문은 당일 발송합니다. 오전에 들어온 주문은 다음 날 발송합니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_reading",
+    "prompt": "다음 안내를 읽고 맞는 것을 고르십시오.",
+    "options": [
+      "창고 안에서는 경적을 계속 울려야 합니다.",
+      "창고 안에서는 천천히 운전해야 합니다.",
+      "안전벨트를 풀고 운전해야 합니다.",
+      "사람이 있는 통로로 빠르게 가야 합니다."
+    ],
+    "answer": 1,
+    "passage": "[지게차 안전수칙] 창고 안에서는 속도를 줄이고 안전벨트를 착용하십시오. 사람이 있는 곳에서는 반드시 멈춰 확인하십시오."
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글을 읽고 내용과 같은 것을 고르십시오.",
+    "options": [
+      "무거운 물건은 가장 높은 곳에 둡니다.",
+      "포장 상자는 통로에 쌓아 둡니다.",
+      "라벨은 안쪽으로 보이지 않게 붙입니다.",
+      "무거운 물건은 아래쪽에 놓는 것이 안전합니다."
+    ],
+    "answer": 3,
+    "passage": "창고에 물건을 쌓을 때는 무거운 것은 아래쪽에, 가벼운 것은 위쪽에 놓는 것이 좋습니다. 또 통로를 막지 않도록 하고 상품 이름이 보이게 정리해야 합니다."
+  }
+]

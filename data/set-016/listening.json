@@ -1,0 +1,543 @@
+[
+  {
+    "id": 21,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "작업장",
+      "작업복",
+      "안전모",
+      "사무실"
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "작업복"
+    }
+  },
+  {
+    "id": 22,
+    "section": "listening",
+    "type": "listen_text",
+    "prompt": "들은 것을 고르십시오.",
+    "options": [
+      "점검",
+      "점심",
+      "공장",
+      "기숙사"
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "점검"
+    }
+  },
+  {
+    "id": 23,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q23-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q23-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q23-1.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q23-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "소화기"
+    },
+    "visual_spec": "Four-option realistic photo question; correct option is a red fire extinguisher, distractors are industrial objects."
+  },
+  {
+    "id": 24,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q24-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q24-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q24-4.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q24-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "망치"
+    },
+    "visual_spec": "Four-option realistic photo question; correct option is a metal claw hammer."
+  },
+  {
+    "id": 25,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q25-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q25-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q25-4.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q25-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "지게차"
+    },
+    "visual_spec": "Four-option realistic workplace vehicle photo question; correct option is a forklift."
+  },
+  {
+    "id": 26,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q26-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q26-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q26-1.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q26-4.webp"
+      }
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "장갑"
+    },
+    "visual_spec": "Four-option realistic PPE photo question; correct option is work gloves."
+  },
+  {
+    "id": 27,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q27-1.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q27-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q27-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q27-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "사다리"
+    },
+    "visual_spec": "Four-option realistic workplace object photo question; correct option is a ladder."
+  },
+  {
+    "id": 28,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오늘 작업은 몇 시에 끝나요?",
+      "optionsAudio": [
+        "공장에서 일해요.",
+        "오후 다섯 시에 끝나요.",
+        "버스로 왔어요.",
+        "장갑을 샀어요."
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "이 공구를 어디에 놓을까요?",
+      "optionsAudio": [
+        "공구함에 넣어 주세요.",
+        "내일 출근해요.",
+        "두 개 샀어요.",
+        "비가 와요."
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "점심시간에 같이 식당에 갈까요?",
+      "optionsAudio": [
+        "아홉 시예요.",
+        "네, 같이 가요.",
+        "기계가 커요.",
+        "어제 갔어요."
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "왜 창문을 열었어요?",
+      "optionsAudio": [
+        "창문이 세 개예요.",
+        "오른쪽에 있어요.",
+        "내일 열 거예요.",
+        "공기가 답답해서 열었어요."
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "section": "listening",
+    "type": "audio_only_options",
+    "prompt": "다음을 듣고 질문에 알맞은 대답을 고르십시오.",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "question_and_options",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "주말에 무엇을 할 거예요?",
+      "optionsAudio": [
+        "회사 앞이에요.",
+        "만원이에요.",
+        "친구를 만나려고 해요.",
+        "한 시간 걸려요."
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "section": "listening",
+    "type": "continuation",
+    "prompt": "다음을 듣고 이어지는 말로 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "어제 교육을 받았어요.",
+      "기계가 고장 났어요.",
+      "교육실에서 만나요.",
+      "점심을 먹지 않았어요."
+    ],
+    "answer": 2,
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "금요일에 안전 교육이 있지요?"
+        },
+        {
+          "speaker": "male",
+          "text": "네, 오전 9시에 시작해요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q34-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q34-1.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q34-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q34-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "오전 여덟 시 삼십 분입니다."
+    },
+    "visual_spec": "Four-option EPS-style realistic/diagram visual. Correct option: clock showing 8:30 AM. Three plausible distractors."
+  },
+  {
+    "id": 35,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q35-1.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q35-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q35-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q35-4.webp"
+      }
+    ],
+    "answer": 0,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "삼만 오천 원입니다."
+    },
+    "visual_spec": "Four-option EPS-style realistic/diagram visual. Correct option: price tag showing 35,000 won. Three plausible distractors."
+  },
+  {
+    "id": 36,
+    "section": "listening",
+    "type": "listen_image",
+    "prompt": "다음을 듣고 들은 내용과 관계있는 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q36-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q36-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q36-4.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q36-1.webp"
+      }
+    ],
+    "answer": 3,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "상자는 책상 아래에 있습니다."
+    },
+    "visual_spec": "Four-option EPS-style realistic/diagram visual. Correct option: realistic box positioned under a desk. Three plausible distractors."
+  },
+  {
+    "id": 37,
+    "section": "listening",
+    "type": "audio_to_picture_options",
+    "prompt": "다음을 듣고 알맞은 그림을 고르십시오.",
+    "options": [
+      {
+        "image": "assets/questions/set-016/q37-2.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q37-1.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q37-3.webp"
+      },
+      {
+        "image": "assets/questions/set-016/q37-4.webp"
+      }
+    ],
+    "answer": 1,
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "남자는 높은 곳에서 작업하려고 합니다. 무엇이 필요합니까?"
+    },
+    "visual_spec": "Four realistic photo options; correct option is a safe industrial ladder."
+  },
+  {
+    "id": 38,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 질문에 알맞은 것을 고르십시오.",
+    "options": [
+      "휴가 계획",
+      "식사 주문",
+      "기숙사 규칙",
+      "기계 점검"
+    ],
+    "answer": 3,
+    "stem": "두 사람은 무엇에 대해 이야기하고 있습니까?",
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "male",
+          "text": "포장 기계 점검은 다 했어요?"
+        },
+        {
+          "speaker": "female",
+          "text": "네, 이상이 없어서 바로 사용할 수 있어요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 질문에 알맞은 것을 고르십시오.",
+    "options": [
+      "식당 안",
+      "사무실 책상 아래",
+      "창고 선반 위",
+      "기숙사 입구"
+    ],
+    "answer": 2,
+    "stem": "안전 장갑은 어디에 있습니까?",
+    "audio": {
+      "mode": "dialogue",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "dialogue": [
+        {
+          "speaker": "female",
+          "text": "새 안전 장갑은 어디에 있어요?"
+        },
+        {
+          "speaker": "male",
+          "text": "창고 안쪽 선반 위에 있어요."
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "section": "listening",
+    "type": "dialogue_comprehension",
+    "prompt": "다음을 듣고 질문에 알맞은 것을 고르십시오.",
+    "options": [
+      "점검 중에는 포장 기계를 사용할 수 없습니다.",
+      "점검은 오늘 합니다.",
+      "점검 장소는 기숙사입니다.",
+      "작업자는 안내를 따르지 않아도 됩니다."
+    ],
+    "answer": 0,
+    "stem": "들은 내용과 같은 것을 고르십시오.",
+    "audio": {
+      "mode": "tts",
+      "lang": "ko-KR",
+      "rate": 0.86,
+      "maxPlays": 2,
+      "text": "내일 오전 9시부터 창고에서 안전 점검을 합니다. 점검하는 동안에는 포장 기계를 사용하지 마십시오. 작업자는 관리자의 안내를 따라 주십시오."
+    }
+  }
+]

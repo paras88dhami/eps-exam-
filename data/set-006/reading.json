@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "드라이버",
+      "망치",
+      "몽키스패너",
+      "펜치"
+    ],
+    "answer": 2,
+    "media": "assets/questions/set-006/q01.webp",
+    "visual_spec": "Book-cropped image: 몽키스패너"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "작업자들이 철근 작업을 하고 있습니다.",
+      "작업자들이 과일을 따고 있습니다.",
+      "작업자들이 음식을 만들고 있습니다.",
+      "작업자들이 서류를 작성하고 있습니다."
+    ],
+    "answer": 0,
+    "media": "assets/questions/set-006/q02.webp",
+    "visual_spec": "Book-cropped scene: 철근 작업을 하고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "화",
+      "실",
+      "문",
+      "모"
+    ],
+    "answer": 3,
+    "stem": "안전___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "저는 매일 작업 전에 기계를 점검합니까.",
+      "저는 매일 작업 전에 기계를 점검합니다.",
+      "저는 매일 작업 전에 기계를 점검하고 싶습니다요.",
+      "저는 매일 작업 전에 기계를 점검했어요가."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "버리다",
+      "확인하다",
+      "닫다",
+      "옮기다"
+    ],
+    "answer": 1,
+    "stem": "점검하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "무겁다",
+      "복잡하다",
+      "빠르다",
+      "안전하다"
+    ],
+    "answer": 3,
+    "stem": "위험하다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "머리",
+      "손",
+      "발",
+      "귀"
+    ],
+    "answer": 0,
+    "stem": "안전모"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "퇴근합니다.",
+      "점심을 먹습니다.",
+      "전원을 확인합니다.",
+      "창문을 엽니다."
+    ],
+    "answer": 2,
+    "stem": "기계를 사용하기 전"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "휴대전화를 꺼야 합니다.",
+      "식당에서 식사해야 합니다.",
+      "은행에 가야 합니다.",
+      "안전모와 장갑을 착용해야 합니다."
+    ],
+    "answer": 3,
+    "stem": "보호구 착용"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "사다리",
+      "지게차",
+      "톱",
+      "드라이버"
+    ],
+    "answer": 0,
+    "media": "assets/questions/set-006/q10.webp",
+    "visual_spec": "Book-cropped image: 사다리"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "씻었습니다",
+      "알렸습니다",
+      "배웠습니다",
+      "빌렸습니다"
+    ],
+    "answer": 1,
+    "stem": "기계 소리가 이상해서 작업을 멈추고 관리자에게 _______."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "예약을",
+      "송금을",
+      "청소를",
+      "요리를"
+    ],
+    "answer": 2,
+    "stem": "바닥에 기름이 흘러 있어서 먼저 _______ 했습니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "도움을 요청하세요",
+      "주소를 쓰세요",
+      "약을 드세요",
+      "문을 잠그세요"
+    ],
+    "answer": 0,
+    "stem": "무거운 자재를 옮길 때는 혼자 들지 말고 동료에게 _______."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "먹어야 합니다",
+      "열어야 합니다",
+      "사야 합니다",
+      "써야 합니다"
+    ],
+    "answer": 3,
+    "stem": "용접 작업을 할 때는 눈을 보호하기 위해 보안경을 _______."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "출근합니다",
+      "예약합니다",
+      "정리합니다",
+      "운전합니다"
+    ],
+    "answer": 2,
+    "stem": "작업이 끝나면 공구를 원래 자리에 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "멀리",
+      "일찍",
+      "조용히",
+      "천천히"
+    ],
+    "answer": 1,
+    "stem": "오늘은 안전 교육이 있어서 평소보다 20분 _______ 출근했습니다."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "사다리",
+      "줄자",
+      "삽",
+      "몽키스패너"
+    ],
+    "answer": 3,
+    "stem": "나사의 크기에 맞게 입구의 폭을 조절해서 사용하는 공구입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "금요일 오후에는 기계를 사용할 수 없습니다.",
+      "점검은 매일 아침에 합니다.",
+      "점검 중에도 기계를 사용할 수 있습니다.",
+      "관리자만 주변을 정리합니다."
+    ],
+    "answer": 0,
+    "stem": "우리 공장은 매주 금요일 오후에 기계 점검을 합니다. 점검 시간에는 기계를 사용할 수 없습니다. 작업자는 점검 전에 기계 주변을 정리해야 합니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "교육은 오후 9시에 시작합니다.",
+      "생산팀 직원은 오전 9시에 교육을 받습니다.",
+      "교육 장소는 1층입니다.",
+      "사무팀만 참석합니다."
+    ],
+    "answer": 1,
+    "stem": "안전 교육 안내\n일시: 9월 22일 오전 9시\n장소: 2층 교육실\n대상: 생산팀 전 직원"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "민수 씨는 보호구를 착용하지 않았습니다.",
+      "민수 씨는 작업 중 손을 날 가까이에 두었습니다.",
+      "민수 씨는 작업 전에 사용 설명을 들었습니다.",
+      "민수 씨는 작업 후 전원을 켜 두었습니다."
+    ],
+    "answer": 2,
+    "stem": "민수 씨는 오늘 처음으로 절단기를 사용합니다. 그래서 작업 전에 사용 설명을 듣고 보호구를 착용했습니다. 작업 중에는 손을 날 가까이에 두지 않았고, 작업이 끝난 뒤에는 전원을 끄고 주변을 정리했습니다."
+  }
+]

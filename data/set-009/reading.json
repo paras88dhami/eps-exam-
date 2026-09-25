@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "수건",
+      "여권",
+      "장갑",
+      "볼트"
+    ],
+    "answer": 1,
+    "media": "assets/questions/set-009/q01.webp",
+    "visual_spec": "Book-cropped image: 여권"
+  },
+  {
+    "id": 2,
+    "section": "reading",
+    "type": "image_sentence",
+    "prompt": "다음 그림을 보고 알맞은 문장을 고르십시오.",
+    "options": [
+      "사람이 벽에 페인트를 칠하고 있습니다.",
+      "사람이 트럭에서 짐을 내리고 있습니다.",
+      "사람이 컴퓨터를 고치고 있습니다.",
+      "사람이 바닥을 청소하고 있습니다."
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-009/q02.webp",
+    "visual_spec": "Book-cropped scene: 바닥을 청소하고 있습니다"
+  },
+  {
+    "id": 3,
+    "section": "reading",
+    "type": "word_completion",
+    "prompt": "빈칸에 들어갈 알맞은 것을 고르십시오.",
+    "options": [
+      "발",
+      "문",
+      "청",
+      "물"
+    ],
+    "answer": 2,
+    "stem": "신___"
+  },
+  {
+    "id": 4,
+    "section": "reading",
+    "type": "grammar_judgment",
+    "prompt": "다음 중 문법적으로 맞는 것을 고르십시오.",
+    "options": [
+      "은행에서 통장을 새로 만들었습니다.",
+      "은행에서 통장을 새로 만들었습니까가.",
+      "은행에서 통장을 새로 만들고 했습니다.",
+      "은행에서 통장을 새로 만들었어요가."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 뜻이 비슷한 것을 고르십시오.",
+    "options": [
+      "접수하다",
+      "버리다",
+      "닫다",
+      "씻다"
+    ],
+    "answer": 0,
+    "stem": "신청하다"
+  },
+  {
+    "id": 6,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 단어와 반대되는 것을 고르십시오.",
+    "options": [
+      "예약하다",
+      "기다리다",
+      "돌려주다",
+      "연락하다"
+    ],
+    "answer": 2,
+    "stem": "빌리다"
+  },
+  {
+    "id": 7,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 중 관계있는 것을 고르십시오.",
+    "options": [
+      "용접",
+      "수확",
+      "절단",
+      "출국"
+    ],
+    "answer": 3,
+    "stem": "여권"
+  },
+  {
+    "id": 8,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 순서에 알맞은 것을 고르십시오.",
+    "options": [
+      "기계를 켭니다.",
+      "순서를 기다립니다.",
+      "밭에 물을 줍니다.",
+      "사다리에 올라갑니다."
+    ],
+    "answer": 1,
+    "stem": "번호표를 뽑은 뒤"
+  },
+  {
+    "id": 9,
+    "section": "reading",
+    "type": "vocabulary_practical",
+    "prompt": "다음 안내와 관계있는 것을 고르십시오.",
+    "options": [
+      "큰 소리로 말하십시오.",
+      "음식을 드십시오.",
+      "바닥이 미끄러우니 조심하십시오.",
+      "사진을 찍으십시오."
+    ],
+    "answer": 2,
+    "stem": "청소 중"
+  },
+  {
+    "id": 10,
+    "section": "reading",
+    "type": "image_choice",
+    "prompt": "다음 그림을 보고 알맞은 것을 고르십시오.",
+    "options": [
+      "여권",
+      "수건",
+      "트럭",
+      "자동판매기"
+    ],
+    "answer": 3,
+    "media": "assets/questions/set-009/q10.webp",
+    "visual_spec": "Book-cropped image: 자동판매기"
+  },
+  {
+    "id": 11,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "신청했습니다",
+      "청소했습니다",
+      "조립했습니다",
+      "수확했습니다"
+    ],
+    "answer": 0,
+    "stem": "외국인등록증을 잃어버려서 재발급을 _______."
+  },
+  {
+    "id": 12,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "무겁게",
+      "필요 없게",
+      "뜨겁게",
+      "젖게"
+    ],
+    "answer": 1,
+    "stem": "은행 업무가 끝나면 번호표는 _______ 됩니다."
+  },
+  {
+    "id": 13,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "수확했습니다",
+      "측정했습니다",
+      "절단했습니다",
+      "문의했습니다"
+    ],
+    "answer": 3,
+    "stem": "기숙사 방이 너무 추워서 관리실에 난방을 _______."
+  },
+  {
+    "id": 14,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "빨리만",
+      "밖에서",
+      "조심해서",
+      "갑자기"
+    ],
+    "answer": 2,
+    "stem": "청소한 바닥이 아직 젖어 있으니 _______ 걸으세요."
+  },
+  {
+    "id": 15,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "태워야 합니다",
+      "써야 합니다",
+      "잘라야 합니다",
+      "재야 합니다"
+    ],
+    "answer": 1,
+    "stem": "택배를 받으려면 주소와 전화번호를 정확히 _______."
+  },
+  {
+    "id": 16,
+    "section": "reading",
+    "type": "context_blank",
+    "prompt": "빈칸에 들어갈 가장 알맞은 것을 고르십시오.",
+    "options": [
+      "전화했습니다",
+      "심었습니다",
+      "조립했습니다",
+      "포장했습니다"
+    ],
+    "answer": 0,
+    "stem": "병원 예약 시간을 바꾸고 싶어서 접수처에 _______."
+  },
+  {
+    "id": 17,
+    "section": "reading",
+    "type": "definition_to_word",
+    "prompt": "다음 설명에 알맞은 것을 고르십시오.",
+    "options": [
+      "영수증",
+      "작업일지",
+      "여권",
+      "메뉴판"
+    ],
+    "answer": 2,
+    "stem": "해외에 나가거나 다른 나라에 입국할 때 신분을 증명하기 위해 사용하는 문서입니다."
+  },
+  {
+    "id": 18,
+    "section": "reading",
+    "type": "short_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "세탁실은 24시간 이용할 수 있습니다.",
+      "세제는 기숙사에서 무료로 줍니다.",
+      "사용 후 정리할 필요가 없습니다.",
+      "세제는 개인이 준비해야 합니다."
+    ],
+    "answer": 3,
+    "stem": "기숙사 세탁실은 오전 7시부터 밤 10시까지 이용할 수 있습니다. 세제는 개인이 준비해야 하고, 사용한 뒤에는 세탁기 주변을 정리해야 합니다."
+  },
+  {
+    "id": 19,
+    "section": "reading",
+    "type": "practical_document",
+    "prompt": "다음 안내의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "토요일에는 오전에만 진료합니다.",
+      "접수는 오전 7시에 시작합니다.",
+      "점심시간에도 진료합니다.",
+      "토요일에는 하루 종일 진료합니다."
+    ],
+    "answer": 0,
+    "stem": "병원 진료 안내\n접수: 오전 8시 30분부터\n점심시간: 12시~1시\n토요일: 오전 진료만"
+  },
+  {
+    "id": 20,
+    "section": "reading",
+    "type": "long_reading",
+    "prompt": "다음 글의 내용과 같은 것을 고르십시오.",
+    "options": [
+      "라힘 씨는 번호표를 뽑지 않았습니다.",
+      "라힘 씨는 송금 후 영수증을 확인했습니다.",
+      "라힘 씨는 병원에 갔습니다.",
+      "라힘 씨는 계좌번호를 확인하지 않았습니다."
+    ],
+    "answer": 1,
+    "stem": "라힘 씨는 월급을 받은 뒤 고향에 돈을 보내려고 은행에 갔습니다. 번호표를 뽑고 기다린 뒤 직원에게 송금할 계좌번호를 보여 주었습니다. 송금이 끝난 후 영수증의 금액과 계좌번호를 다시 확인했습니다."
+  }
+]
